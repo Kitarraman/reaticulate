@@ -1,0 +1,481 @@
+//ATTENTION: THIS ARTICULATION MAP WAS BUILT FOR MY CENTURY BRASS LITE, ENSEMBLE AND SOLO CUSTOM MULTIS. IF YOU PLAN ON USING THIS, I RECOMMEND YOU BUILD YOUR MULTIS THE SAME WAY I DID OR EDIT THIS BANK
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//-----------------------------CENTURY BRASS LITE
+//! g="8DIO/Century Brass Lite" n="Brass Ensemble"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=11111111-d84e-2678-1bb0-879439a6ac5d
+Bank * * Brass Ensemble
+//! c=long i=note-whole o=note@1:12
+01 Sustain
+//! c=short i=staccatissimo-stopped o=note@1:13
+02 Staccatissimo
+//! c=short i=staccato o=note@1:14
+03 Staccato
+//! c=short i=marcato o=note@1:15
+05 Marcato
+//! c=fx i=fanfare o=note@1:16
+06 Soaring
+//! c=fx i=crescendo o=note@1:17
+07 Crescendo Sfz
+
+
+//-------------------------------CENTURY BRASS ENSEMBLE
+//! g="8DIO/Century Brass/Brass Ensemble" n="01 12 Horns"
+//! m="Info"
+//! id=d4f0f561-7675-4702-8437-2ee7de2a81d6
+Bank * * 12 Horns
+//! c=long i=note-whole o=note@1:12
+01 Sustain
+//! c=legato i=legato o=note@1:13
+02 Legato
+//! c=fx i=fanfare o=note@1:14
+03 Soaring Long
+//! c=short i=marcato o=note@1:15
+04 Marc Short
+//! c=short i=staccato o=note@1:16
+05 Staccato
+//! c=short i=staccatissimo-stopped o=note@1:17
+06 Staccatissimo
+//! c=short i=staccatissimo-stopped o=note@1:18
+07 Stacc.mo Mute
+//! c=fx i=fanfare o=note@1:19
+08 Soaring LNG Mute
+
+//! g="8DIO/Century Brass/Brass Ensemble" n="02 6 Horns"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=a4a12e2c-74af-4c17-bf5d-c009306f5383
+Bank * * 6 Horns
+//! c=long i=note-whole o=note@1:12
+01 Sustain
+//! c=legato i=legato o=note@1:13
+02 Legato
+//! c=short i=multitongued o=note@1:14
+03 Flutter Tongue
+//! c=short i=multitongued o=note@1:15
+04 Double Tongue
+//! c=short i=multitongued o=note@1:16
+05 Triple Tongue
+//! c=short i=staccato o=note@1:17
+06 Staccato
+//! c=short i=staccatissimo-stopped o=note@1:18
+07 Staccatissimo
+//! c=short i=marcato o=note@1:19
+08 Marc Short
+//! c=fx i=rip o=note@1:20
+09 Rips
+//! spacer=1
+//! c=long i=con-sord o=note@2:12
+10 Sustain MT S
+//! c=long i=con-sord o=note@2:13
+11 Sustain MT
+//! c=short i=staccatissimo-stopped o=note@2:14
+12 Stacc.mo MT S
+//! c=short i=staccatissimo-stopped o=note@2:15
+13 Stacc.mo MT
+//! c=short i=marcato-half o=note@2:16
+14 Marcato MT
+//! c=short i=marcato-quarter o=note@2:17
+15 Marcato Short MT
+//! c=short i=fanfare o=note@2:18
+16 Soaring SHRT MT
+//! c=long i=fanfare o=note@2:19
+17 Soaring LNG MT
+//! c=fx i=rip o=note@2:20
+18 Rips MT
+
+//! g="8DIO/Century Brass/Brass Ensemble" n="03 2 Horns"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=68329746-1c2c-46db-ab5f-1930ae5b48d8
+Bank * * 2 Horns
+//! c=long i=note-whole o=note@1:12
+01 Sustain
+//! c=legato i=legato o=note@1:13
+02 Legato
+//! c=fx i=trill-min2 o=note@1:14
+03 Trill m2
+//! c=fx i=trill-maj2 o=note@1:15
+04 Trill Maj2
+//! c=fx i=multitongued o=note@1:16
+05 Flutter Tongue
+//! c=short i=staccatissimo-stopped o=note@1:17
+06 Staccatissimo
+//! c=short i=marcato-quarter o=note@1:18
+07 Marcato Short
+//! c=short i=marcato-quarter o=note@1:19
+08 Marcato Short Atk
+//! c=short i=fanfare o=note@1:20
+09 Soaring Short
+//! c=long i=fanfare o=note@1:21
+10 Soaring Long
+//! spacer=1
+//! c=long i=note-whole o=note@2:12
+11 Sustain MT
+//! c=long i=note-whole o=note@2:13
+12 Sustain MT S
+//! c=short i=marcato-short o=note@2:14
+13 Marc MT
+//! c=short i=marcato-short o=note@2:15
+14 Marc MT S
+//! c=short i=staccatissimo-stopped o=note@2:16
+15 Stacc.mo MT
+//! c=short i=staccatissimo-stopped o=note@2:17
+16 Stacc.mo MT S
+
+//! g="8DIO/Century Brass/Brass Ensemble" n="04 4 Trumpets"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=4cdf586d-0e8a-45f5-a18d-c16da0069f9a
+Bank * * 04 4 Trumpets
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=long i=vibrato o=note@1:13
+2 Sustain Vibrato
+//! c=legato i=legato o=note@1:14
+3 Legato
+//! c=fx i=fanfare o=note@1:15
+4 Soaring Long
+//! c=fx i=fanfare o=note@1:16
+5 Soaring Long Vib
+//! c=short i=multitongued o=note@1:17
+6 Double Tongue
+//! c=short i=multitongued o=note@1:18
+7 Triple Tongue
+//! c=short i=fanfare o=note@1:19
+8 Soaring Short
+//! c=short i=fanfare o=note@1:20
+9 Soaring Sht Vib
+//! c=short i=fanfare o=note@1:21
+10 Fanfare Shorts
+//! spacer=1
+//! c=short i=staccato o=note@2:12
+11 Staccato
+//! c=short i=staccatissimo-short o=note@2:13
+12 Staccatissimo
+//! c=short i=marcato-quarter o=note@2:14
+13 Marcato Short
+//! c=short i=marcato-quarter o=note@2:15
+14 Marcato Short Vib
+//! spacer=1
+//! c=long i=con-sord o=note@3:12
+15 Sustain MT
+//! c=long i=con-sord o=note@3:13
+16 Sustain MT S
+//! c=short i=staccato o=note@3:14
+17 Staccato MT
+//! c=short i=staccatissimo-short o=note@3:15
+18 Staccatissimo MT
+//! c=short i=staccatissimo-short o=note@3:16
+19 Staccatissimo MT S
+//! c=short i=marcato-quarter o=note@3:17
+20 Marcato MT
+//! c=fx i=fanfare o=note@3:18
+21 Soaring Long MT
+//! c=fx i=fanfare o=note@3:19
+22 Soaring Short MT
+
+//! g="8DIO/Century Brass/Brass Ensemble" n="05 2 Trumpets"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=4589c0ec-269c-4ab7-bbf7-bbb37cc6686c
+Bank * * 05 2 Trumpets
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=long i=vibrato o=note@1:13
+2 Sustain Vibrato
+//! c=legato i=legato o=note@1:14
+3 Legato
+//! c=fx i=fanfare o=note@1:15
+4 Soaring Long
+//! c=short i=multitongued o=note@1:16
+5 Double Tongue
+//! c=short i=multitongued o=note@1:17
+6 Triple Tongue
+//! c=short i=fanfare o=note@1:18
+7 Soaring Short
+//! c=short i=staccato o=note@1:19
+8 Staccato
+//! c=short i=staccatissimo-stopped o=note@1:20
+9 Staccatissimo
+//! c=short i=marcato o=note@1:21
+10 Marcato Med
+//! spacer=1
+//! c=short i=marcato-quarter o=note@2:12
+11 Marcato Vib Med
+//! c=short i=marcato-quarter o=note@2:13
+12 Marcato Short
+//! c=short i=marcato-quarter o=note@2:14
+13 Marcato Short Vib
+//! spacer=1
+//! c=long i=con-sord o=note@3:12
+15 Sustain MT
+//! c=long i=con-sord o=note@3:13
+16 Sustain MT S
+//! c=short i=staccatissimo-short o=note@3:14
+18 Staccatissimo MT
+//! c=short i=staccatissimo-short o=note@3:15
+19 Staccatissimo MT S
+//! c=fx i=fanfare o=note@3:16
+21 Soaring Long MT
+//! c=fx i=fanfare o=note@3:17
+22 Soaring Short MT
+//! c=fx i=fanfare o=note@3:18
+23 Soaring Long MT S
+//! c=fx i=fanfare o=note@3:19
+24 Soaring Short MT S
+
+//! g="8DIO/Century Brass/Brass Ensemble" n="06 3 Trombones"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=ecc4dde4-02ff-447f-b7eb-d5ded1e72396
+Bank * * 06 3 Trombones
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=long i=vibrato o=note@1:13
+2 Sustain Vibrato
+//! c=legato i=legato o=note@1:14
+3 Legato
+//! c=short i=multitongued o=note@1:15
+4 Flutter Tongue
+//! c=short i=multitongued o=note@1:16
+5 Double Tongue
+//! c=short i=multitongued o=note@1:17
+6 Triple Tongue
+//! c=fx i=rip o=note@1:18
+7 Rips
+//! c=long i=fanfare o=note@1:19
+8 Soaring Long
+//! c=short i=fanfare o=note@1:20
+9 Soaring Short
+//! c=short i=fanfare o=note@1:21
+10 Fanfare Shorts
+//! spacer=1
+//! c=short i=staccato o=note@2:12
+11 Staccato
+//! c=short i=staccatissimo-stopped o=note@2:13
+12 Staccatissimo
+//! c=short i=marcato-half o=note@2:14
+13 Marcato
+//! c=short i=marcato-quarter o=note@2:15
+14 Marcato Short
+//! spacer=1
+//! c=long i=con-sordino o=note@3:12
+15 Sustain MT
+//! c=long i=fanfare o=note@3:13
+16 Soaring Long MT
+//! c=short i=fanfare o=note@3:14
+17 Soaring Short MT
+//! c=fx i=rip o=note@3:15
+18 Rips MT
+//! c=short i=staccato o=note@3:16
+19 Staccato MT
+//! c=short i=staccatissimo-stopped o=note@3:17
+20 Staccatissimo MT
+
+
+//---------------------------------CENTURY BRASS SOLO
+//! g="8DIO/Century Brass/Brass Solo" n="01 French Horn"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=27f7c988-c638-4173-9ab7-358301f0783f
+Bank * * 01 French Horn
+//! c=long i=note-whole o=note@1:24
+1 Sustain
+//! c=long i=vibrato o=note@1:25
+2 Sustain Vib
+//! c=legato i=legato o=note@1:26
+3 Legato
+//! c=long i=trill-min2 o=note@1:27
+4 Trill min2
+//! c=long i=trill-maj2 o=note@1:28
+5 Trill Maj2
+//! c=short i=multitongued o=note@1:29
+6 Flutter Tongue
+//! c=short i=multitongued o=note@1:30
+7 Double Tongue
+//! c=short i=multitongued o=note@1:31
+8 Triple Tongue
+//! c=fx i=rip o=note@1:32
+9 Rips
+//! c=fx i=rip o=note@1:33
+10 Rips Marcato
+//! spacer=1
+//! c=long i=fanfare o=note@2:24
+11 Soaring Long
+//! c=short i=fanfare o=note@2:25
+12 Soaring Short
+//! c=fx i=fanfare o=note@2:26
+13 Fanfare Shorts
+//! c=short i=marcato-quarter o=note@2:27
+14 Marcato Short
+//! c=short i=marcato-quarter o=note@2:28
+15 Marcato Short Attack
+//! c=short i=staccatissimo-stopped o=note@2:29
+16 Staccatissimo
+//! spacer=1
+//! c=long i=note-whole o=note@3:24
+17 Sustain MT
+//! c=short i=note-quarter o=note@3:25
+18 Sustain MT Short
+//! c=fx i=rip o=note@3:26
+19 Rips MT
+//! c=short i=marcato-half o=note@3:27
+20 Marcato MT
+//! c=short i=marcato-half o=note@3:28
+21 Marcato Long MT
+//! c=short i=marcato-quarter o=note@3:29
+22 Marcato Short MT
+//! c=short i=staccatissimo-stopped o=note@3:30
+23 Staccatissimo MT
+
+//! g="8DIO/Century Brass/Brass Solo" n="02 Trumpet"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=a55112dc-cf55-4eeb-b87e-ac84d7792c98
+Bank * * 02 Trumpet
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=long i=vibrato o=note@1:13
+2 Sustain Vib
+//! c=legato i=legato o=note@1:14
+3 Legato
+//! c=long i=trill-min2 o=note@1:15
+4 Trill min2
+//! c=long i=trill-maj2 o=note@1:16
+5 Trill Maj2
+//! c=short i=multitongued o=note@1:17
+6 Flutter Tongue
+//! c=short i=multitongued o=note@1:18
+7 Double Tongue
+//! c=short i=multitongued o=note@1:19
+8 Triple Tongue
+//! c=long i=fanfare o=note@1:20
+9 Soaring Long
+//! c=long i=fanfare o=note@1:21
+10 Soaring Long Vib
+//! spacer=1
+//! c=short i=fanfare o=note@2:12
+11 Soaring Short
+//! c=short i=fanfare o=note@2:13
+12 Soaring Short Vib
+//! c=short i=marcato-quarter o=note@2:14
+13 Marcato Short
+//! c=short i=staccatissimo-stopped o=note@2:15
+14 Staccatissimo
+//! spacer=1
+//! c=long i=note-whole o=note@3:12
+15 Sustain MT
+//! c=long i=note-whole o=note@3:13
+16 Sustain MT S
+//! c=long i=fanfare o=note@3:14
+17 Soaring Long MT
+//! c=long i=fanfare o=note@3:15
+18 Soaring Long MT S
+//! c=short i=fanfare o=note@3:16
+19 Soaring Short MT
+//! c=short i=fanfare o=note@3:17
+20 Soaring Short MT S
+//! c=short i=staccatissimo-stopped o=note@3:18
+21 Staccatissimo MT
+//! c=short i=staccatissimo-stopped o=note@3:19
+22 Staccatissimo MT S
+
+//! g="8DIO/Century Brass/Brass Solo" n="03 Trombone"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=452aa39a-a014-4603-be5b-f5717e566cda
+Bank * * 03 Trombone
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=long i=vibrato o=note@1:13
+2 Sustain Vibrato
+//! c=legato i=legato o=note@1:14
+3 Legato
+//! c=short i=multitongued o=note@1:15
+4 Flutter Tongue
+//! c=short i=multitongued o=note@1:16
+5 Double Tongue
+//! c=short i=multitongued o=note@1:17
+6 Triple Tongue
+//! c=fx i=rip o=note@1:18
+7 Rips
+//! spacer=1
+//! c=short i=marcato-quarter o=note@2:12
+8 Marcato Short
+//! c=short i=staccato o=note@2:13
+9 Staccato
+//! c=short i=staccatissimo-stopped o=note@2:14
+10 Staccatissimo
+//! c=short i=fanfare o=note@2:15
+11 Fanfare Shorts
+//! c=long i=con-sord o=note@2:16
+12 Sustain Mt
+//! c=short i=multitongued o=note@2:17
+13 Dbl Tongue Mute
+//! c=short i=multitongued o=note@2:18
+14 Triple Tongue Mute
+//! c=short i=marcato-quarter o=note@2:19
+15 Marcato Mute
+//! c=short i=staccato-con-sord o=note@2:20
+16 Staccato Mute
+//! c=short i=staccato-con-sord o=note@2:21
+17 Staccatissimo Mute
+
+//! g="8DIO/Century Brass/Brass Solo" n="04 Flugelhorn"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=fc570ec7-19de-4ca1-9ccf-2a403b6beff2
+Bank * * 04 Flugelhorn
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=long i=vibrato o=note@1:13
+2 Sustain Vib
+//! c=legato i=legato o=note@1:14
+3 Legato
+//! c=fx i=fanfare o=note@1:15
+4 Fanfare Shorts
+//! c=short i=staccato o=note@1:16
+5 Staccato
+
+//! g="8DIO/Century Brass/Brass Solo" n="05 Bass Trombone"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=4ed1d253-7e8e-409d-8fe8-8eb3af3cb342
+Bank * * 05 Bass Trombone
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=short i=marcato-quarter o=note@1:15
+4 Marcato
+//! c=short i=staccato o=note@1:16
+5 Staccato
+//! c=short i=staccato o=note@1:17
+6 Staccatissimo
+
+//! g="8DIO/Century Brass/Brass Solo" n="06 Cimbasso"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=c0006791-3b5a-49f3-acf9-dbe411f1a89c
+Bank * * 06 Cimbasso
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=short i=fanfare o=note@1:14
+3 Fanfare Shorts
+//! c=short i=marcato-half o=note@1:15
+4 Marcato Med
+//! c=short i=marcato-quarter o=note@1:16
+5 Marcato Short
+//! c=short i=staccato o=note@1:17
+6 Staccato
+//! c=short i=staccatissimo-stopped o=note@1:18
+7 Staccatissimo
+
+//! g="8DIO/Century Brass/Brass Solo" n="07 Tuba"
+//! m="Dynamic control w CC01, Expression w CC11, Gliss Speed with CC02, Glissando direction with CC73"
+//! id=43a94c40-32f6-4a53-9ce9-583084e53889
+Bank * * 07 Tuba
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=fx i=multitongued o=note@1:14
+3 Flutter Tongue
+//! c=short i=marcato-quarter o=note@1:15
+4 Marcato Short
+//! c=short i=staccato o=note@1:16
+5 Staccato
+//! c=short i=staccatissimo-stopped o=note@1:17
+6 Staccatissimo

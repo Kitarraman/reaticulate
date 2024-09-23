@@ -1,0 +1,35 @@
+//ATTENTION: THIS IS A BANK I'VE MADE FOR MY CUSTOM KONTAKT MULTI. IF YOU PLAN ON USING THIS ARTICULATION BANK, I STRONGLY SUGGEST YOU BUILD THE MULTI THE SAME WAY I DID
+//I MAY MAKE THE MULTIS AVAILABLE ON MY WEBSITE AT SOME TIME IN THE FUTURE, SO CHECK KITARRAMAN.COM OUT IF YOU WANT TO SPARE YOURSELF SOME TIME.
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//-------------------------------------------------------------------------------------------------------------------------CineSamples VOXOS
+//! g="CineSamples Kitarraman Banks/VOXOS" n="01 Choir Wordbuilder"
+//! m="Staccatos with velocity>81, dynamics with CC01, vowel morph with CC02 (only on legato)"
+//! id=0c7e3d26-0c95-4816-899f-5ee531aec8f0
+Bank * * 01 Choir Wordbuilder
+//! c=long i=fx o=note@1:24
+1 Phrase 1
+//! c=long i=fx o=note@1:25
+2 Phrase 2
+//! c=long i=fx o=note@1:26
+3 Phrase 3
+//! c=long i=fx o=note@1:27
+4 Phrase 4
+//! c=long i=fx o=note@1:28
+5 Phrase 5
+//! c=long i=fx o=note@1:29
+6 Phrase 6
+//! c=long i=fx o=note@1:30
+7 Phrase 7
+//! c=long i=fx o=note@1:31
+8 Phrase 8
+//! c=long i=fx o=note@1:32
+9 Phrase 9
+//! c=long i=fx o=note@1:33
+10 Phrase 10
+//! c=long i=fx o=note@1:34
+11 Phrase 11
+//! c=long i=fx o=note@1:35
+12 Phrase 12
+//! spacer=1
+//! c=legato i=legato o=@2
+25 Legato Patch

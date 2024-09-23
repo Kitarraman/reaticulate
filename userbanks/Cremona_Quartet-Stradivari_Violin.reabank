@@ -1,0 +1,165 @@
+//ATTENTION: THIS IS A BANK I'VE MADE FOR MY CUSTOM KONTAKT MULTI. IF YOU PLAN ON USING THIS ARTICULATION BANK, I STRONGLY SUGGEST YOU BUILD THE MULTI THE SAME WAY I DID
+//I MAY MAKE THE MULTIS AVAILABLE ON MY WEBSITE AT SOME TIME IN THE FUTURE, SO CHECK KITARRAMAN.COM OUT IF YOU WANT TO SPARE YOURSELF SOME TIME.
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//----------------------------------------------------Native Instruments Stradivari Violin
+//! g="Native Instruments/Cremona Quarter" n="01 Stradivari Violin"
+//! m="Dynamics w CC01, EXP w CC11, Vibrato Rate w CC16, Vibrato Amount w CC17, Speed w CC02. min2 trills are triggered with Vel<64, M2 Trills w Vel>64"
+//! id=4eaacc95-870b-431f-ab9a-e14664f0d4a5
+Bank * * 01 Stradivari Violin
+//! c=#FFC83E i=legato o=note@1:0
+1 Sustain Fingered
+//! c=#FFC83E i=legato-bowed o=note@1:1
+2 Sustain Bowed
+//! c=#FFC83E i=legato-runs o=note@1:2
+3 Sustain Runs
+//! c=#FFC83E i=legato-portamento o=note@1:3
+4 Sustain Portamento
+
+//! spacer=1
+//! c=#E69F00 i=marcato-quarter o=note@1:4
+5 Marcato Fingered
+//! c=#E69F00 i=marcato-quarter o=note@1:5
+6 Marcato Bowed
+//! c=#E69F00 i=marcato-quarter o=note@1:6
+7 Marcato Runs
+//! c=#E69F00 i=marcato-quarter o=note@1:7
+8 Marcato Portamento
+
+//! spacer=1
+//! c=#B87800 i=fx o=note@1:8
+9 Détaché Bowed
+//! c=#B87800 i=fx o=note@1:9
+10 Détaché Rebow
+
+//! spacer=1
+//! c=#85DEFF i=harmonics o=note@1:10
+11 Harmonics
+//! c=#85DEFF i=sul-pont o=note@1:11
+12 Sul Pont
+//! c=#85DEFF i=sul-tasto o=note@1:12
+13 Sul Tasto
+//! c=#85DEFF i=col-legno o=note@1:13
+14 Col Legno
+
+//! spacer=1
+//! c=#48C79A i=pizz o=note@1:14
+15 Pizz
+//! c=#48C79A i=staccato o=note@1:15
+16 Staccato
+//! c=#48C79A i=spiccato o=note@1:16
+17 Spiccato
+//! c=#48C79A i=spiccato-brushed o=note@1:17
+18 Spiccatissimo
+//! c=#48C79A i=fx o=note@1:18
+19 Sautillé
+
+//! spacer=1
+//! c=#009E73 i=tremolo o=note@1:19
+20 Tremolo Bowed
+//! c=#009E73 i=tremolo o=note@1:20
+21 Tremolo Rebow
+//! c=#009E73 i=trill o=note@1:21
+22 Trill Portamento
+//! c=#009E73 i=trill o=note@1:22
+23 Trill Rebow
+
+//! spacer=1
+//! c=#CC79A7 i=fx o=note@1:48
+24 Note Rebow CH1
+//! c=#CC79A7 i=fx o=note@1:50
+25 Force Open String CH1
+
+//! spacer=1
+//! c=#CC79A7 i=fx o=cc@1:20,0
+26 Passionate Vibrato
+//! c=#CC79A7 i=fx o=cc@1:20,27
+27 Intense Vibrato
+//! c=#CC79A7 i=fx o=cc@1:20,46
+28 Wide Vibrato
+//! c=#CC79A7 i=fx o=cc@1:20,68
+29 Evolving Vibrato
+//! c=#CC79A7 i=fx o=cc@1:20,94
+30 Narrow Vibrato
+//! c=#CC79A7 i=fx o=cc@1:20,127
+31 Immediate Vibrato
+
+//! g="Native Instruments/Cremona Quarter" n="02 Stradivari Violin - Con Sordino"
+//! m="Dynamics w CC01, EXP w CC11, Vibrato Rate w CC16, Vibrato Amount w CC17, Speed w CC02. min2 trills are triggered with Vel<64, M2 Trills w Vel>64"
+//! id=b4db8fcc-49da-4305-bace-35dc741633a6
+Bank * * 02 Stradivari Violin Con Sordino
+//! c=#FFC83E i=legato o=note@2:0
+32 Sustain Fingered - Con Sordino
+//! c=#FFC83E i=legato-bowed o=note@2:1
+33 Sustain Bowed - Con Sordino
+//! c=#FFC83E i=legato-runs o=note@2:2
+34 Sustain Runs - Con Sordino
+//! c=#FFC83E i=legato-portamento o=note@2:3
+35 Sustain Portamento - Con Sordino
+
+//! spacer=1
+//! c=#E69F00 i=marcato-quarter o=note@2:4
+36 Marcato Fingered - Con Sordino
+//! c=#E69F00 i=marcato-quarter o=note@2:5
+37 Marcato Bowed - Con Sordino
+//! c=#E69F00 i=marcato-quarter o=note@2:6
+38 Marcato Runs - Con Sordino
+//! c=#E69F00 i=marcato-quarter o=note@2:7
+39 Marcato Portamento - Con Sordino
+
+//! spacer=1
+//! c=#B87800 i=fx o=note@2:8
+40 Détaché Bowed - Con Sordino
+//! c=#B87800 i=fx o=note@2:9
+41 Détaché Rebow - Con Sordino
+
+//! spacer=1
+//! c=#85DEFF i=harmonics o=note@2:10
+42 Harmonics - Con Sordino
+//! c=#85DEFF i=sul-pont o=note@2:11
+43 Sul Pont - Con Sordino
+//! c=#85DEFF i=sul-tasto o=note@2:12
+44 Sul Tasto - Con Sordino
+//! c=#85DEFF i=col-legno o=note@2:13
+45 Col Legno - Con Sordino
+
+//! spacer=1
+//! c=#48C79A i=pizz o=note@2:14
+46 Pizz - Con Sordino
+//! c=#48C79A i=staccato o=note@2:15
+47 Staccato - Con Sordino
+//! c=#48C79A i=spiccato o=note@2:16
+48 Spiccato - Con Sordino
+//! c=#48C79A i=spiccato-brushed o=note@2:17
+49 Spiccatissimo - Con Sordino
+//! c=#48C79A i=fx o=note@2:18
+50 Sautillé - Con Sordino
+
+//! spacer=1
+//! c=#009E73 i=tremolo o=note@2:19
+51 Tremolo Bowed - Con Sordino
+//! c=#009E73 i=tremolo o=note@2:20
+52 Tremolo Rebow - Con Sordino
+//! c=#009E73 i=trill o=note@2:21
+53 Trill Portamento - Con Sordino
+//! c=#009E73 i=trill o=note@2:22
+54 Trill Rebow - Con Sordino
+
+//! spacer=1
+//! c=#CC79A7 i=fx o=note@2:48
+55 Note Rebow CH2 - Con Sordino
+//! c=#CC79A7 i=fx o=note@2:50
+56 Force Open String CH2 - Con Sordino
+
+//! spacer=1
+//! c=#CC79A7 i=fx o=cc@2:20,0
+57 Passionate Vibrato - Con Sordino
+//! c=#CC79A7 i=fx o=cc@2:20,27
+58 Intense Vibrato - Con Sordino
+//! c=#CC79A7 i=fx o=cc@2:20,46
+59 Wide Vibrato - Con Sordino
+//! c=#CC79A7 i=fx o=cc@2:20,68
+60 Evolving Vibrato - Con Sordino
+//! c=#CC79A7 i=fx o=cc@2:20,94
+61 Narrow Vibrato - Con Sordino
+//! c=#CC79A7 i=fx o=cc@2:20,127
+62 Immediate Vibrato - Con Sordino

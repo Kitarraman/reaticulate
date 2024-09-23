@@ -1,0 +1,866 @@
+//WARNING: HERE YOU WILL FIND ALMOST THE ENTIRE CINESYMPHONY BUNDLE MAPPED. THE ONLY COLLECTIONS UNACCOUNTED FOR ARE CINEWINDS CORE AND PRO, AS I DEEM THOSE LIBRARIES USELESS FOR THE LACK OF ENSEMBLE PATCHES
+//OR SECOND INSTRUMENT (NO FLUTE II, FOR EXAMPLE), I PREFER DEPLOYING AARON VENTURE'S INFINITE WOODWINDS. ANOTHER USER HAS PROGRAMMED THE ARTICULATION BANKS FOR CINEWINDS CORE AND PRO, USE THAT INSTEAD.
+//ALSO, YOU SHOULD SET UP THE MULTIS THE WAY I DID IF YOU PLAN TO USE THIS ARTICULATION MAP. I'LL UPDATE MY CUSTOM MULTIS ON MY WEBSITE SOMETIME IN THE FUTURE, SO CHECK KITARRAMAN.COM OUT TO SEE IF I'VE MADE 
+//THE MULTIS AVAILABLE THERE
+//--------------------------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineBrass Core 1.8" n="01 Trumpet Ensemble"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato always off by default"
+//! id=ebb205f7-78fe-421a-af44-a40a722ad559
+Bank * * 01 Trumpet Ensemble
+//! c=legato i=legato o=cc@1:16,127
+6 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+7 Poly Legato Off
+//! c=long i=note-whole o=note@1:29
+1 Sustain
+//! c=short i=note-half o=note@1:28
+2 Short 1/2
+//! c=short i=note-quarter o=note@1:26
+3 Short 1/4
+//! c=short i=note-eighth o=note@1:24
+4 Short 1/8
+//! spacer=1
+//! c=long i=legato o=note@2
+5 True Legato
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass Core 1.8" n="02 Two Horns Ensemble"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato always off by default"
+//! id=a9e80794-aedb-4fd9-bee9-adfd9105be9c
+Bank * * 02 Two Horns Ensemble
+//! c=legato-light i=legato o=cc@1:30,127
+1 Poly Legato On
+//! c=long i=note-whole o=cc@1:30,0
+2 Poly Legato Off
+//! c=long i=note-whole o=note@1:2
+3 Sustain
+//! c=short i=note-eighth o=note@1:0
+4 Short 1/8
+//! spacer=1
+//! c=legato i=legato o=note@2
+5 True Legato
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass Core 1.8" n="03 Six Horns Ensemble"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato always off by default"
+//! clone="CineSamples Kitarraman Banks/CineBrass Core 1.8/01 Trumpet Ensemble"
+//! id=3d2250be-d8e6-434f-91bc-3dec572e927a
+Bank * * 03 Six Horns Ensemble
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass Core 1.8" n="04 Trombone Ensemble"
+//! m="Three channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato always off by default"
+//! id=81710183-adf0-4927-b8a9-28936d9b0abc
+Bank * * 04 Trombone Ensemble
+//! c=legato i=legato o=cc@1:16,127
+6 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+7 Poly Legato Off
+//! c=long i=note-whole o=note@1:29
+1 Sustain
+//! c=short i=note-half o=note@1:28
+2 Short 1/2
+//! c=short i=note-quarter o=note@1:26
+3 Short 1/4
+//! c=short i=note-eighth o=note@1:24
+4 Short 1/8
+//! spacer=1
+//! c=long i=legato o=note@2
+5 True Legato (Brassy)
+//! spacer=1
+//! c=long i=legato o=note@3
+8 True Legato (Mellow)
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass Core 1.8" n="05 Tuba + Bass Trombone"
+//! m="One channel patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=5ace372d-6797-486c-94ad-092508fdd107
+Bank * * 05 Tuba + Bass Trombone
+//! c=long i=note-whole o=note:3
+1 Sustain
+//! c=short i=note-half o=note:2
+2 Short 1/2
+//! c=short i=note-quarter o=note:1
+3 Short 1/4
+//! c=short i=note-eighth o=note:0
+4 Short 1/8
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass Core 1.8" n="06 Cimbasso + Bass Trombone Articulations"
+//! m="One channel patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=f6ba6fe7-8ed0-4657-ba3d-d4bbb89d9dd0
+Bank * * 06 Cimbasso + Bass Trombone Articulations
+//! c=long i=note-whole o=note:1
+1 Sustain
+//! c=short i=note-eighth o=note:0
+2 Short 1/8
+
+
+//---------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineBrass Descant Horn 1.1" n="01 Descant Horn Solo"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=35ef696d-ee86-46b7-ae84-185709bf13d7
+Bank * * 01 Descant Horn Solo
+//! c=long i=note-whole o=note@1:36
+1 Sustain
+//! c=short-dark i=staccato o=note@1:38
+2 Short Stacc
+//! c=short i=staccato o=note@1:40
+3 Staccato
+//! spacer=1
+//! c=legato i=legato o=note@2
+4 True Legato
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineBrass Horns of the Deep 1.0" n="01 Horns of the Deep"
+//! m="Four channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato always off by default"
+//! id=bedd0396-4752-43a4-a075-93a11a38d354
+Bank * * 01 Horns of the Deep
+//! c=legato i=legato o=cc@1:16,127
+6 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+7 Poly Legato Off
+//! c=long i=note-whole o=note@1:24
+1 Sustain
+//! c=short i=staccato o=note@1:26
+2 Staccato
+//! spacer=1
+//! c=legato i=legato o=note@2
+3 Mono Legato
+//! spacer=1
+//! c=fx i=fx o=note@3
+4 Clusters & Flutters
+//! spacer=1
+//! c=fx i=rip o=note@4
+5 Rips
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineBrass PRO 1.8" n="01 Trumpet Solo"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=7d5fe3d7-b3a7-469a-8fb1-b0fe5910b5c2
+Bank * * 01 Trumpet Solo
+//! c=long i=note-whole o=note@1:29
+1 Sustain
+//! c=short i=note-half o=note@1:28
+2 Short 1/2
+//! c=short i=note-quarter o=note@1:26
+3 Short 1/4
+//! c=short i=note-eighth o=note@1:24
+4 Short 1/8
+//! spacer=1
+//! c=legato i=legato o=note@2
+5 True Legato
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass PRO 1.8" n="03 Horn Solo"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! clone="CineSamples Kitarraman Banks/CineBrass PRO 1.8/01 Trumpet Solo"
+//! id=1a591b42-3b90-4bf8-aef6-e8bcd72b9990
+Bank * * 02 Horn Solo
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass PRO 1.8" n="02 Trumpets Ensemble Muted"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=12b49dbc-dcc7-4262-bf8e-bda7c7d4aca8
+Bank * * 02 Trumpets Ensemble Muted
+//! c=long i=note-whole o=note@1:29
+1 Sustain Mute
+//! c=short i=note-half o=note@1:28
+2 Short 1/2
+//! c=short i=note-quarter o=note@1:26
+3 Short 1/4
+//! c=short i=note-eighth o=note@1:24
+4 Short 1/8
+//! spacer=1
+//! c=long i=note-whole o=note@2:26
+5 Sustain Harmon Mute
+//! c=short i=note-quarter o=note@2:24
+6 Short 1/4
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass PRO 1.8" n="04 12 Horns Ensemble"
+//! m="Three channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato always off by default"
+//! id=2091d6c8-c834-4ae4-9a5f-a9ff4cbf7e0f
+Bank * * 04 12 Horns Ensemble
+//! c=legato i=legato o=cc@1:16,127
+5 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+6 Poly Legato Off
+//! c=long i=note-whole o=note@1:26
+1 Sustain
+//! c=short i=note-eighth o=note@1:24
+2 Short 1/8
+//! spacer=1
+//! c=legato i=legato o=note@2
+3 True Legato
+//! spacer=1
+//! c=textured i=fx o=note@3
+4 Mutes
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass PRO 1.8" n="05 Trombone Solo"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! clone="CineSamples Kitarraman Banks/CineBrass PRO 1.8/01 Trumpet Solo"
+//! id=65a9196c-f7b3-427e-91fe-cc2c2dc8be8f
+Bank * * 05 Trombone Solo
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass PRO 1.8" n="06 Trombone Ensemble Mute"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=f9004ba0-4a1b-40dd-9a6a-73bc7cb386bd
+Bank * * 06 Trombone Ensemble Mute
+//! c=long i=note-whole o=note@1:29
+1 Sustain
+//! c=short i=note-half o=note@1:28
+2 Short 1/2
+//! c=short i=note-quarter o=note@1:26
+3 Short 1/4
+//! c=short i=note-eighth o=note@1:24
+4 Short 1/8
+//! spacer=1
+//! c=long i=note-whole o=note@2:26
+5 Sustain Harmon
+//! c=short i=note-eighth o=note@2:24
+6 Short 1/8 Harmon
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass PRO 1.8" n="07 Tuba Solo"
+//! m="Three channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=256035b9-93ac-4b32-9a28-a8b84a91d849
+Bank * * 07 Tuba Solo
+//! c=long-light i=note-whole o=note@1:29
+1 Sustain
+//! c=short i=note-half o=note@1:28
+2 Short 1/2
+//! c=short i=note-quarter o=note@1:26
+3 Short 1/4
+//! c=short i=note-eighth o=note@1:24
+4 Short 1/8
+//! spacer=1
+//! c=legato i=legato o=note@2
+5 Mono Legato
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineBrass Sonore" n="01 Trumpets"
+//! m="One channel patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=95da25d2-0b33-4ef1-ad97-49d8f254a7e2
+Bank * * 01 Trumpets
+//! c=legato i=legato o=note:24
+1 Legato
+//! c=long i=note-whole o=note:25
+2 Sustain
+//! c=short-dark i=fx o=note:26
+3 Secco
+//! c=long i=fortepiano o=note:27
+4 Forte Piano
+//! c=fx i=sfz o=note:28
+5 Sforzando
+//! c=fx i=accented-quarter o=note:29
+6 Accent
+//! c=fx i=note-half o=note:30
+7 Half Note
+//! c=fx i=crescendo o=note:31
+8 Swell
+
+
+//! g="CineSamples Kitarraman Banks/CineBrass Sonore" n="02 Horns"
+//! m="One channel patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate"
+//! id=459a5f6b-7246-4ee7-b0b0-6c5444882dfe
+Bank * * 02 Horns
+//! c=legato i=legato o=note:24
+1 Legato
+//! c=long i=note-whole o=note:25
+2 Sustain
+//! c=short-dark i=fx o=note:26
+3 Secco
+//! c=long i=fortepiano o=note:27
+4 Forte Piano
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineBrass Twelve Horns Ensemble" n="01 Horns Ensemble"
+//! m="Five channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato always off by default"
+//! id=5fc76f6c-a725-4c70-838a-b04a0cbb4e96
+Bank * * 01 Horns Ensemble
+//! c=legato i=legato o=cc@1:16,127
+7 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+8 Poly Legato Off
+//! c=long i=note-whole o=note@1:26
+1 Sustain
+//! c=short i=staccato o=note@1:24
+2 Staccato
+//! spacer=1
+//! c=long i=legato o=note@2
+3 Mono Legato
+//! spacer=1
+//! c=fx i=fx o=note@3
+4 Mutes Poly Legato
+//! spacer=1
+//! c=fx i=fx o=note@4
+5 Mutes Mono Legato
+//! spacer=1
+//! c=fx i=fx o=note@5
+6 Mutes Sustain
+
+
+//------------------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineStrings Core v2.0" n="01 Violins I"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato off by default"
+//! id=bdf006df-6df8-448a-b0f2-bbbdea0ee32a
+Bank * * 01 Violins I
+//! c=legato i=legato o=cc@1:16,127
+13 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+14 Poly Legato Off
+//! c=long i=note-whole o=note@1:0
+1 Sustain
+//! c=long i=tremolo o=note@1:1
+2 Tremolo
+//! c=long-light i=harmonics o=note@1:2
+3 Harmonic
+//! c=long-light i=trill-min2 o=note@1:3
+4 HS Trill
+//! c=long-light i=trill-maj2 o=note@1:4
+5 WS Trill
+//! c=short i=marcato-quarter o=note@1:5
+6 Marcato
+//! c=short-light i=staccato o=note@1:6
+7 Staccato
+//! c=short-dark i=spiccato o=note@1:7
+8 Spiccato
+//! c=short i=pizz o=note@1:8
+9 Pizzicato
+//! c=textured i=pizz-bartok o=note@1:9
+10 Pizz Bartok
+//! c=textured i=col-legno o=note@1:10
+11 Col Legno
+//! spacer=1
+//! c=legato-light i=legato o=note@2
+12 Mono Legato
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v2.0" n="02 Violins II"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato off by default"
+//! clone="CineSamples Kitarraman Banks/CineStrings Core v2.0/01 Violins I"
+//! id=88693252-c7bc-4ddc-8494-c5a83f529829
+Bank * * 02 Violins II
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v2.0" n="03 Violas"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato off by default"
+//! clone="CineSamples Kitarraman Banks/CineStrings Core v2.0/01 Violins I"
+//! id=c9a9b181-7117-45c0-85ec-1d5976c948ee
+Bank * * 03 Violas
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v2.0" n="04 Cellos"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato off by default"
+//! clone="CineSamples Kitarraman Banks/CineStrings Core v2.0/01 Violins I"
+//! id=00e5a56e-41c3-4930-bede-bb0b811f6fe6
+Bank * * 04 Cellos
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v2.0" n="05 Basses"
+//! m="Two channels patch, CC01 controls dynamics and CC02 controls vibrato/tremolo rate. Poly legato off by default"
+//! clone="CineSamples Kitarraman Banks/CineStrings Core v2.0/01 Violins I"
+//! id=c27a78dc-a36b-43d3-aa4e-a46196838672
+Bank * * 05 Basses
+
+
+//---------------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineStrings Core v1.4" n="01 Violins I"
+//! m="Four channels patch, Dynamics w CC01, Vibrato w CC02 and EXP w CC11. Poly legato always off by default"
+//! id=f85bf148-d022-4507-930b-3b18b5e7e160
+Bank * * 01 Violins I
+//! c=legato i=legato o=cc@1:16,127
+13 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+14 Poly Legato Off
+//! c=long i=note-whole o=note@1:29
+1 Sustain
+//! c=long i=tremolo o=note@1:33
+2 Tremolo
+//! c=long-light i=trill-min2 o=note@1:31/note@1:30
+3 HS Trill
+//! c=long-light i=trill-maj2 o=note@1:31/note@1:32
+4 WS Trill
+//! c=short i=marcato-quarter o=note@1:28
+5 Marcato
+//! c=short-light i=staccato o=note@1:26
+6 Staccato
+//! c=short-dark i=spiccato o=note@1:24
+7 Spiccato
+//! spacer=1
+//! c=short i=pizz o=note@2:24
+8 Pizzicato
+//! c=textured i=pizz-bartok o=note@2:26
+9 Pizz Bartok
+//! c=textured i=col-legno o=note@2:28
+10 Col Legno
+//! spacer=1
+//! c=long-light i=harmonics o=@3
+11 Harmonics
+//! spacer=1
+//! c=legato i=legato o=@4
+12 Mono Legato
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v1.4" n="02 Violins II"
+//! m="Four channels patch, Dynamics w CC01, Vibrato w CC02 and EXP w CC11"
+//! clone="CineSamples Kitarraman Banks/CineStrings Core v1.4/01 Violins I"
+//! id=90c97b32-e6a9-4ebe-acaa-bc4a53eedb03
+Bank * * 02 Violins II
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v1.4" n="03 Violas"
+//! m="Four channels patch, Dynamics w CC01, Vibrato w CC02 and EXP w CC11"
+//! clone="CineSamples Kitarraman Banks/CineStrings Core v1.4/01 Violins I"
+//! id=3de57cea-10b7-4187-97f6-8bffac488c40
+Bank * * 03 Violas
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v1.4" n="04 Cellos"
+//! m="Four channels patch, Dynamics w CC01, Vibrato w CC02 and EXP w CC11"
+//! clone="CineSamples Kitarraman Banks/CineStrings Core v1.4/01 Violins I"
+//! id=a1f1c6b8-661f-4105-8ae7-17eb2ed4587c
+Bank * * 04 Cellos
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Core v1.4" n="05 Basses"
+//! m="Four channels patch, Dynamics w CC01, Vibrato w CC02 and EXP w CC11. Poly legato always off by default"
+//! id=ca4202c2-1c37-4b00-afac-90f32ad8867a
+Bank * * 05 Basses
+//! c=legato i=legato o=cc@1:16,127
+13 Poly Legato On
+//! c=long i=note-whole o=cc@1:16,0
+14 Poly Legato Off
+//! c=long i=note-whole o=note@1:17
+1 Sustain
+//! c=long i=tremolo o=note@1:21
+2 Tremolo
+//! c=long-light i=trill-min2 o=note@1:19/note@1:18
+3 HS Trill
+//! c=long-light i=trill-maj2 o=note@1:19/note@1:20
+4 WS Trill
+//! c=short i=marcato-quarter o=note@1:16
+5 Marcato
+//! c=short-light i=staccato o=note@1:14
+6 Staccato
+//! c=short-dark i=spiccato o=note@1:12
+7 Spiccato
+//! spacer=1
+//! c=short i=pizz o=note@2:12
+8 Pizzicato
+//! c=textured i=pizz-bartok o=note@2:14
+9 Pizz Bartok
+//! c=textured i=col-legno o=note@2:16
+10 Col Legno
+//! spacer=1
+//! c=long-light i=harmonics o=@3
+11 Harmonics
+//! spacer=1
+//! c=legato i=legato o=@4
+12 Mono Legato
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineStrings Solo 1.3" n="01 Violin 1"
+//! m="Two channels patch, CC01 for dyn and CC02 for vibrato"
+//! id=81d58f2e-4a8c-44d6-8604-995148ed322c
+Bank * * 01 Violin 1
+//! c=legato i=legato o=note@1:0
+1 Legato STD
+//! c=legato-dark i=legato o=note@1:1
+2 Legato EXP
+//! c=short i=marcato-quarter o=note@1:2
+3 Marcato
+//! c=short i=staccato o=note@1:3
+4 Staccato
+//! c=short-light i=spiccato o=note@1:4
+5 Spiccato
+//! c=short-light i=spiccato o=note@1:5
+6 Spiccato Short
+//! spacer=1
+//! c=short i=pizz o=@2
+7 Pizzicato
+//! spacer=1
+//! c=long i=tremolo o=@3
+8 Tremolo
+//! spacer=1
+//! c=short-dark i=pizz-bartok o=@4
+9 Pizz Bartok
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Solo 1.3" n="02 Violin 2"
+//! m="Two channels patch, CC01 for dyn and CC02 for vibrato"
+//! id=7726cb51-105e-4f45-8336-1d3c00ae8cce
+Bank * * 02 Violin 2
+//! c=legato i=legato o=note@1:0
+1 Legato STD
+//! c=legato-dark i=legato o=note@1:1
+2 Legato EXP
+//! c=short i=marcato-quarter o=note@1:2
+3 Marcato
+//! c=short i=staccato o=note@1:3
+4 Staccato
+//! c=short-light i=spiccato o=note@1:4
+5 Spiccato
+//! c=short-light i=spiccato o=note@1:5
+6 Spiccato Short
+//! spacer=1
+//! c=short i=pizz o=@2
+7 Pizzicato
+//! spacer=1
+//! c=long i=tremolo o=@3
+8 Tremolo
+//! spacer=1
+//! c=short-dark i=pizz-bartok o=@4
+9 Pizz Bartok
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Solo 1.3" n="03 Viola"
+//! m="Four channels patch, CC01 for dyn and CC02 for vibrato"
+//! id=d1143674-db82-4171-8a3c-aac77d1569f2
+Bank * * 03 Viola
+//! c=legato i=legato o=note@1:0
+1 Legato STD
+//! c=legato-dark i=legato o=note@1:1
+2 Legato EXP
+//! c=short i=marcato-quarter o=note@1:2
+3 Marcato
+//! c=short i=staccato o=note@1:3
+4 Staccato
+//! c=short-light i=spiccato o=note@1:4
+5 Spiccato
+//! c=short-light i=spiccato o=note@1:5
+6 Spiccato Short
+//! spacer=1
+//! c=short i=pizz o=@2
+7 Pizzicato
+//! spacer=1
+//! c=long i=tremolo o=@3
+8 Tremolo
+//! spacer=1
+//! c=short-dark i=pizz-bartok o=@4
+9 Pizz Bartok
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Solo 1.3" n="04 Cello"
+//! m="Two channels patch, CC01 for dyn and CC02 for vibrato"
+//! id=463eebbc-b9ee-45d9-8c2c-a730944b691c
+Bank * * 04 Cello
+//! c=legato i=legato o=note@1:0
+1 Legato STD
+//! c=legato-dark i=legato o=note@1:1
+2 Legato EXP
+//! c=short i=marcato-quarter o=note@1:2
+3 Marcato
+//! c=short i=staccato o=note@1:3
+4 Staccato
+//! c=short-light i=spiccato o=note@1:4
+5 Spiccato
+//! c=short-light i=pizz-bartok o=note@1:5
+6 Pizz Bartok
+//! spacer=1
+//! c=short i=pizz o=@2
+6 Pizzicato
+
+
+//! g="CineSamples Kitarraman Banks/CineStrings Solo 1.3" n="05 Bass"
+//! m="Two channels patch, CC01 for dyn and CC02 for vibrato"
+//! id=da2d38cb-506b-4df1-8587-c2fe79c63fcf
+Bank * * 05 Bass
+//! c=legato i=legato o=note@1:0
+1 Legato STD
+//! c=legato-dark i=legato o=note@1:1
+2 Legato EXP
+//! c=short i=marcato-quarter o=note@1:2
+3 Marcato
+//! c=short i=staccato o=note@1:3
+4 Staccato
+//! c=short-light i=spiccato o=note@1:4
+5 Spiccato
+//! c=short-light i=pizz-bartok o=note@1:5
+6 Pizz Bartok
+//! spacer=1
+//! c=short i=pizz o=@2
+7 Pizzicato
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/Monster Low Winds" n="01 Monster Low Winds"
+//! m="One channel patch. CC01 for DYN, CC02 for VIB, CC11 for EXP"
+//! id=e09d4e1d-5ef4-4ac4-bbd9-3fef37850fd8
+Bank * * 01 Monster Low Winds
+//! c=legato i=legato o=note:72
+1 Legato
+//! c=long i=note-whole o=note:73
+2 Sustains
+//! c=short i=staccato o=note:74
+3 Staccato
+//! c=fx i=fx o=note:75
+4 Secco
+//! c=fx i=fx o=note:76
+5 Rumble
+//! c=fx i=fx o=note:77
+6 Squeaks
+//! c=fx i=fx o=note:78
+7 Clusters
+//! c=long i=crescendo o=note:79
+8 Swells
+//! c=fx i=fall o=note:80
+9 Rips
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CineHarps" n="01 CineHarp"
+//! m="Three channels patch"
+//! id=d690800a-5ef6-459b-a617-fe17c548fe09
+Bank * * 01 CineHarp
+//! c=long i=note-whole o=@1
+1 Regular
+//! c=textured i=harmonics o=@2
+2 Harmonics
+//! c=fx i=fx o=@3
+3 Xylophonics
+
+
+//! g="CineSamples Kitarraman Banks/CineHarps" n="02 CineHarp"
+//! m="Three channels patch"
+//! id=1a140df4-0b4f-4dcb-b5b7-01087c63daab
+Bank * * 02 CineHarp
+//! c=long i=note-whole o=@1
+1 Regular
+//! c=textured i=harmonics o=@2
+2 Harmonics
+//! c=fx i=fx o=@3
+3 Xylophonics
+
+
+//! g="CineSamples Kitarraman Banks/CineHarps" n="03 CineHarp"
+//! m="Three channels patch"
+//! id=8584507f-c48c-40d6-bea9-5789104efb60
+Bank * * 03 CineHarp
+//! c=long i=note-whole o=@1
+1 Regular
+//! c=textured i=harmonics o=@2
+2 Harmonics
+//! c=fx i=fx o=@3
+3 Xylophonics
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CinePerc" n="01 Timpani"
+//! id=a0f72343-4e1f-4203-b7e0-ea63ab16421a
+Bank * * 01 Timpani
+//! c=fx i=fx o=@1
+1 Soft Mallet
+//! c=fx i=crescendo o=cc@1:64,127
+2 Cresc Roll On
+//! c=fx i=crescendo o=cc@1:64,0
+3 Cresc Roll Off
+//! spacer=1
+//! c=fx i=fx o=@2
+4 Medium Mallet
+//! c=fx i=crescendo o=cc@2:64,127
+5 Cresc Roll On
+//! c=fx i=crescendo o=cc@2:64,0
+6 Cresc Roll Off
+//! spacer=1
+//! c=fx i=fx o=@3
+7 Hard Mallet
+//! c=fx i=crescendo o=cc@3:64,127
+8 Cresc Roll On
+//! c=fx i=crescendo o=cc@3:64,0
+9 Cresc Roll Off
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="02 Bass Drum"
+//! m="2 Channels Patch"
+//! id=543e94ca-e024-47ad-adc0-d7b76f5a90a0
+Bank * * 02 Bass Drum
+//! c=default i=fx o=@1
+1 28inches BD
+//! spacer=1
+//! c=default i=fx o=@2
+2 36inches BD
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="03 Snare"
+//! id=bb72e7ae-c8c2-49cd-850d-95c29d16052d
+Bank * * 03 Snare
+//! c=fx i=fx o=@1
+1 Snare Concert
+//! spacer=1
+//! c=fx i=fx o=@2
+2 Snare Military
+//! spacer=1
+//! c=fx i=fx o=@3
+3 Snare Piccolo
+//! spacer=1
+//! c=fx i=fx o=@4
+4 Snare Tenor
+//! spacer=1
+//! c=fx i=fx o=@5
+5 Snare PopCorn
+//! spacer=1
+//! c=fx i=fx o=@6
+6 Snare Metal
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="04 Toms"
+//! m="The instrument has differently pitched toms, distributed along the whole keyboard"
+//! id=b0c0609c-7f07-4b59-8fa5-a67b438f98e6
+Bank * * 04 Toms
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="05 Cymbals"
+//! id=667db779-e838-45bb-bef9-abd3920f6fed
+Bank * * 05 Cymbals
+//! c=fx i=fx o=@1
+1 Suspended Cymbals
+//! spacer=1
+//! c=fx i=fx o=@2
+2 Piatti Crash
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="06 Gong & Tam-Tam"
+//! id=ef3513ea-d2b9-4539-8f98-1af0b5f69bee
+Bank * * 06 Gong & Tam-Tam
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="07 Shakers"
+//! id=a4d6b95c-6a9a-4f6d-8f8e-83726f680d5a
+Bank * * 07 Shakers
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="08 Xylophone"
+//! m="Two channels patch"
+//! id=94c1de32-1168-4b69-81bd-bd60a173b129
+Bank * * 08 Xylophone
+//! c=fx i=fx o=@1
+1 Soft Mallet
+//! c=long i=tremolo o=cc@1:64,127
+2 Roll On - Soft Mallet
+//! c=long i=note-quarter o=cc@1:64,0
+3 Roll Off - Soft Mallet
+//! spacer=1
+//! c=fx i=fx o=@2
+4 Hard Mallet
+//! c=long i=tremolo o=cc@2:64,127
+5 Roll On - Hard Mallet
+//! c=long i=note-quarter o=cc@2:64,0
+6 Roll Off - Hard Mallet
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="09 Glockenspiel"
+//! m="Two channels patch"
+//! id=53a9febb-d201-4876-b67a-4969cf18eb15
+Bank * * 09 Glockenspiel
+//! c=fx i=fx o=@1
+1 Soft Mallet
+//! spacer=1
+//! c=fx i=fx o=@2
+2 Hard Mallet
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="10 Marimba"
+//! m="Two channels patch"
+//! id=4fb9f171-35bd-45ff-928f-ad22eb3a25f8
+Bank * * 10 Marimba
+//! c=fx i=fx o=@1
+1 Soft Mallet
+//! c=long i=tremolo o=cc@1:64,127
+2 Roll On
+//! c=long i=note-quarter o=cc@1:64,0
+3 Roll Off
+//! spacer=1
+//! c=fx i=fx o=@2
+4 Hard Mallet
+//! c=long i=tremolo o=cc@2:64,127
+5 Roll On
+//! c=long i=note-quarter o=cc@2:64,0
+6 Roll On
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="11 Crotales"
+//! m="Two channels patch"
+//! id=c3d93999-bc79-4feb-a76a-0bcdd7cfd91a
+Bank * * 11 Crotales
+//! c=fx i=fx o=note:0
+1 Med Mallet
+//! c=fx i=fx o=note:1
+2 Bowed
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="12 Vibraphone"
+//! m="On motor on, notes are a HS down"
+//! id=e6d53acd-9909-4d6b-ad9d-367a778fef2a
+Bank * * 12 Vibraphone
+//! c=fx i=fx o=note@1:0
+1 Soft Mallet - Motor Off
+//! c=fx i=fx o=note@1:2
+2 Hard Mallet - Motor Off
+//! c=long i=tremolo o=cc@1:64,127
+3 Rolls On
+//! c=short i=note-quarter o=cc@1:64,0
+4 Rolls Off
+//! spacer=1
+//! c=fx i=fx o=note@2:0
+5 Soft Mallet - Motor On
+//! c=fx i=fx o=note@2:2
+6 Hard Mallet - Motor On
+//! c=long i=tremolo o=cc@2:64,127
+7 Rolls On
+//! c=long i=tremolo o=cc@2:64,0
+8 Rolls Off
+//! spacer=1
+//! c=long i=bow-down o=@3
+9 Bowed
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="13 Glass Marimba"
+//! id=a05dbac5-9eb3-447a-8993-ee73e88cfb88
+Bank * * 13 Glass Marimba
+//! c=fx i=fx o=@1
+1 Medium Mallet
+//! spacer=1
+//! c=fx i=fx o=@2
+2 Hard Mallet
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="14 Bells and Chimes"
+//! id=7f2f8d83-73ac-4ee9-bd34-b7f9fddc4f51
+Bank * * 14 Bells and Chimes
+//! c=fx i=fx o=@1
+1 Tubular Bells
+//! spacer=1
+//! c=fx i=fx o=@2
+2 Low Chimes
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="15 Celeste"
+//! id=36a5b7df-2740-4894-9d20-2c1c9bd02c29
+Bank * * 15 Celeste
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="16 Triangle"
+//! id=49b4d4d7-fe9a-4e0a-b367-7101bd9081cf
+Bank * * 16 Triangle
+
+
+//! g="CineSamples Kitarraman Banks/CinePerc" n="17 Taikos"
+//! id=27eddbaa-4640-43f2-b687-6bf4b0e62d4a
+Bank * * 17 Taikos
+
+
+//----------------------------------------------------------------------------------------------------------------------------
+//! g="CineSamples Kitarraman Banks/CinePiano" n="CinePiano"
+//! id=855d99e0-abc1-46c1-a8d8-92e19271971e
+Bank * * CinePiano
+//! c=#D55E00 i=fx o=cc:64,127
+1 Sustain Pedal Down
+//! c=#D55E00 i=fx o=cc:64,0
+2 Sustain Pedal Up

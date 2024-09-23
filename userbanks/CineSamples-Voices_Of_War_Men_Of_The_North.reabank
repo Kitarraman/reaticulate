@@ -1,0 +1,36 @@
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//---------------------------------------------------------------------------------------------------------------Voices Of War: Men Of The North
+//! g="CineSamples Kitarraman Banks/Voices Of War - Men Of The North" n="01 Master Patch - Dragonborne"
+//! m="CC01 for Dynamics, CC02 for Vowel Blend"
+//! id=7c8fd539-8263-4f4c-a172-f5fa6f7b3fe2
+Bank * * 01 Master Patch - Dragonborne
+//! c=#56B4E9 i=note-whole o=note:84
+1 Sus Oo+Aah
+//! c=#56B4E9 i=legato o=note:85
+2 Legato Oo+Aah
+//! c=#56B4E9 i=fx o=note:86
+3 Chants
+//! c=#56B4E9 i=fx o=note:87
+4 Norse Shouts
+//! c=#56B4E9 i=fx o=note:88
+5 Norse Whispers
+//! c=#56B4E9 i=note-whole o=note:89
+6 Fourths
+//! c=#56B4E9 i=note-whole o=note:90
+7 Fifths
+//! c=#56B4E9 i=fx o=note:91
+8 Vowel Morph Low
+//! c=#56B4E9 i=fx o=note:92
+9 Vowel Morph
+//! c=#56B4E9 i=fx o=note:93
+10 Pitch Morph
+//! c=#56B4E9 i=fx o=note:94
+11 Inhale
+//! c=#56B4E9 i=fx o=note:95
+12 Whispers
+//! c=#56B4E9 i=fx o=note:96
+13 Low Growl
+//! c=#56B4E9 i=fx o=note:97
+14 Low Words
+//! c=#56B4E9 i=fx o=note:98
+15 Falsetto Morphs

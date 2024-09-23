@@ -1,0 +1,156 @@
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//----------------------------------------------------------INDIGINUS THE MANDOLIN
+//! g="Indiginus" n="The Mandolin"
+//! m="Master Key Controlled w CC102, Harmony Interval CC103, Relase Vol CC104, Noises CC105, Hammer on note value CC106, Trill note valute CC107, Trem Speed CC108, Trem Sync CC109"
+//! id=98f4e60a-0a32-4f4a-994a-f1b870ddfbcb
+Bank * * The Mandolin
+//! c=#F0E442 i=con-sord o=note-hold:25
+1 Mutes
+//! c=#F0E442 i=tremolo o=note-hold:26
+2 Tremolo
+//! c=#F0E442 i=legato-gliss o=note-hold:27
+3 Down slide
+//! c=#F0E442 i=fx o=note-hold:28
+4 Intervals
+//! c=#F0E442 i=legato o=note-hold:29
+5 Hammer On
+//! c=#F0E442 i=bend-up o=note-hold:30
+6 Bend Up
+//! c=#F0E442 i=trill-min2 o=note-hold:31
+7 Trill 2
+//! c=#F0E442 i=bend-down o=note-hold:32
+8 Bend Up/Down
+//! c=#F0E442 i=trill-min2 o=note-hold:33
+9 Trill m2 down
+//! c=#F0E442 i=legato-gliss o=note-hold:34
+10 1 Tone slide
+//! c=#F0E442 i=legato o=note-hold:35
+11 Pull off
+
+//! spacer=1
+//! c=#F0E442 i=fx o=output
+12 Noise Level
+//! c=#F0E442 i=fx o=cc:105,0
+13 No noise
+//! c=#F0E442 i=fx o=cc:105,31
+14 A little noise
+//! c=#F0E442 i=fx o=cc:105,63
+15 Some noise
+//! c=#F0E442 i=fx o=cc:105,95
+16 Noisey
+//! c=#F0E442 i=fx o=cc:105,127
+17 A lot of noise
+
+//! spacer=1
+//! c=#F0E442 i=fx o=output
+18 Interval (Master Key Dependant)
+//! c=#F0E442 i=fx o=cc:103,0
+19 Steel
+//! c=#F0E442 i=fx o=cc:103,7
+20 Blues
+//! c=#F0E442 i=fx o=cc:103,20
+21 3rd Up
+//! c=#F0E442 i=fx o=cc:103,33
+22 4th Up
+//! c=#F0E442 i=fx o=cc:103,46
+23 5th Up
+//! c=#F0E442 i=fx o=cc:103,62
+24 6th Up
+//! c=#F0E442 i=fx o=cc:103,72
+25 3rd Down
+//! c=#F0E442 i=fx o=cc:103,83
+26 4th Down
+//! c=#F0E442 i=fx o=cc:103,99
+27 5th Down
+//! c=#F0E442 i=fx o=cc:103,109
+28 6th Down
+//! c=#F0E442 i=fx o=cc:103,127
+29 Octave Down
+
+//! spacer=1
+//! c=#F0E442 i=fx o=output
+30 Hammer on duration
+//! c=#F0E442 i=note-quarter o=cc:106,0
+31 Quarter
+//! c=#F0E442 i=note-eighth o=cc:106,40
+32 Eight
+//! c=#F0E442 i=note-sixteenth o=cc:106,52
+33 Sixteenth
+//! c=#F0E442 i=note-eighth o=cc:106,85
+34 Eight Triplet
+//! c=#F0E442 i=note-sixteenth o=cc:106,127
+35 Sixteenth Triplet
+
+//! spacer=1
+//! c=#F0E442 i=fx o=output
+36 Tremolo Speed
+//! c=#F0E442 i=fx o=cc:109,0
+37 Controlled by Slider
+//! c=#F0E442 i=note-eighth o=cc:109,20
+38 Eight
+//! c=#F0E442 i=note-eighth o=cc:109,34
+39 Eight Triplet
+//! c=#F0E442 i=note-sixteenth o=cc:109,41
+40 Sixteenth
+//! c=#F0E442 i=note-sixteenth o=cc:109,61
+41 Sixteenth Triplet
+//! c=#F0E442 i=tremolo o=cc:109,80
+42 Thirtysecond
+//! c=#F0E442 i=tremolo o=cc:109,93
+43 Thirtysecond Triplet
+//! c=#F0E442 i=tremolo o=cc:109,107
+44 Sixtyfourth
+//! c=#F0E442 i=tremolo o=cc:109,127
+45 Sixtyfourth Triplet
+
+//! spacer=1
+//! c=#F0E442 i=fx o=output
+46 Master Key
+//! c=#F0E442 i=fx o=cc:102,0
+47 C/Am
+//! c=#F0E442 i=fx o=cc:102,3
+48 C#/Bbm
+//! c=#F0E442 i=fx o=cc:102,9
+49 D/Bm
+//! c=#F0E442 i=fx o=cc:102,15
+50 Eb/Cm
+//! c=#F0E442 i=fx o=cc:102,21
+51 E/C#m
+//! c=#F0E442 i=fx o=cc:102,25
+52 F/Dm
+//! c=#F0E442 i=fx o=cc:102,30
+53 F#/Ebm
+//! c=#F0E442 i=fx o=cc:102,36
+54 G/Em
+//! c=#F0E442 i=fx o=cc:102,45
+55 Ab/Fm
+//! c=#F0E442 i=fx o=cc:102,51
+56 A/F#m
+//! c=#F0E442 i=fx o=cc:102,54
+57 Bb/Gm
+//! c=#F0E442 i=fx o=cc:102,60
+58 B/G#m
+//! c=#F0E442 i=fx o=cc:102,64
+59 Cm Harm
+//! c=#F0E442 i=fx o=cc:102,72
+60 C#m Harm
+//! c=#F0E442 i=fx o=cc:102,76
+61 Dm Harm
+//! c=#F0E442 i=fx o=cc:102,83
+62 Ebm Harm
+//! c=#F0E442 i=fx o=cc:102,91
+63 Em Harm
+//! c=#F0E442 i=fx o=cc:102,93
+64 F
+//! c=#F0E442 i=fx o=cc:102,99
+65 F#m Harm
+//! c=#F0E442 i=fx o=cc:102,105
+66 Gm Harm
+//! c=#F0E442 i=fx o=cc:102,111
+67 Abm Harm
+//! c=#F0E442 i=fx o=cc:102,118
+68 Am Harm
+//! c=#F0E442 i=fx o=cc:102,124
+69 Bbm Harm
+//! c=#F0E442 i=fx o=cc:102,127
+70 Bm Harm

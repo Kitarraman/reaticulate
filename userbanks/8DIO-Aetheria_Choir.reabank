@@ -1,0 +1,277 @@
+//ATTENTION: THIS IS A BANK I'VE MADE FOR MY CUSTOM KONTAKT MULTI. IF YOU PLAN ON USING THIS ARTICULATION BANK, I STRONGLY SUGGEST YOU BUILD THE MULTI THE SAME WAY I DID
+//I MAY MAKE THE MULTIS AVAILABLE ON MY WEBSITE AT SOME TIME IN THE FUTURE, SO CHECK KITARRAMAN.COM OUT IF YOU WANT TO SPARE YOURSELF SOME TIME.
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//-------------------------------------------------------------------------Aetheria Choir Kustom Multis
+//! g="8DIO/Aetheria Choir Kustom" n="01 Aetheria Full Choir Choir"
+//! m="Use exclusively MIDI CCs 01 and 11 as many others ccs raging from 12 to 25 are used by the instrument"
+//! id=5eb66fe3-369f-4ff4-be45-9f4a2cc2b2e5
+Bank * * 01 Aetheria Full Choir
+//! c=#0072B2 i=note-whole o=cc@1:12,1
+1 AH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,6
+2 EE - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,11
+3 EH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,16
+4 OH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,21
+5 UH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,26
+6 MUS - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,31
+7 NAR - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,36
+8 RAR - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,41
+9 SIS - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,46
+10 ZOH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,51
+11 ZTOH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,56
+12 MM- Sustain
+
+//! spacer=1
+//! c=#009E73 i=marcato-half o=cc@2:12,1
+13 AH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,6
+14 EE - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,11
+15 EH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,16
+16 OH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,21
+17 UH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,26
+18 MUS - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,31
+19 NAR - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,36
+20 RAR - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,41
+21 SIS - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,46
+22 ZOH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,51
+23 ZTOH - Marcato
+
+//! spacer=1
+//! c=#D55E00 i=staccato o=cc@3:12,1
+24 AH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,6
+25 EE - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,11
+26 EH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,16
+27 OH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,21
+28 UH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,26
+29 DEE - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,31
+30 EX - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,36
+31 HOH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,41
+32 MEM - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,46
+33 MUS - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,51
+34 NAR - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,56
+35 NEE - Staccato
+
+//! spacer=1
+//! c=#CC79A7 i=legato o=note@4:24
+36 AH - Legato
+//! c=#CC79A7 i=legato o=note@4:25
+37 EH - Legato
+//! c=#CC79A7 i=legato o=note@4:26
+38 OH - Legato
+//! c=#CC79A7 i=legato o=note@4:27
+39 UH - Legato
+//! c=#CC79A7 i=legato o=note@4:28
+40 MM - Legato
+
+
+//! g="8DIO/Aetheria Choir Kustom" n="02 Aetheria Female Section"
+//! m="Use exclusively MIDI CCs 01 and 11 as many others ccs raging from 12 to 25 are used by the instrument"
+//! id=3e4c1de1-ad92-4060-9bf8-317e5cf9de74
+Bank * * 02 Aetheria Female Section
+//! c=#0072B2 i=note-whole o=cc@1:12,1
+1 AH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,6
+2 EE - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,11
+3 EH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,16
+4 OH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,21
+5 UH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,26
+6 MUS - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,31
+7 NAR - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,36
+8 RAR - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,41
+9 SIS - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,46
+10 ZOH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,51
+11 ZTOH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,56
+12 MM- Sustain
+
+//! spacer=1
+//! c=#009E73 i=marcato-half o=cc@2:12,1
+13 AH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,6
+14 EE - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,11
+15 EH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,16
+16 OH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,21
+17 UH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,26
+18 MUS - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,31
+19 NAR - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,36
+20 RAR - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,41
+21 SIS - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,46
+22 ZOH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,51
+23 ZTOH - Marcato
+
+//! spacer=1
+//! c=#D55E00 i=staccato o=cc@3:12,1
+24 AH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,6
+25 EE - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,11
+26 EH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,16
+27 OH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,21
+28 UH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,26
+29 DEE - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,31
+30 EX - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,36
+31 HOH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,41
+32 MEM - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,46
+33 MUS - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,51
+34 NAR - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,56
+35 NEE - Staccato
+
+//! spacer=1
+//! c=#CC79A7 i=legato o=note@4:24
+36 AH - Legato
+//! c=#CC79A7 i=legato o=note@4:25
+37 EH - Legato
+//! c=#CC79A7 i=legato o=note@4:26
+38 OH - Legato
+//! c=#CC79A7 i=legato o=note@4:27
+39 UH - Legato
+//! c=#CC79A7 i=legato o=note@4:28
+40 MM - Legato
+
+//! g="8DIO/Aetheria Choir Kustom" n="03 Aetheria Male Section"
+//! m="Use exclusively MIDI CCs 01 and 11 as many others ccs raging from 12 to 25 are used by the instrument"
+//! id=156696f3-0e5a-4f8b-a62a-56e9fa157d19
+Bank * * 03 Aetheria Male Section
+//! c=#0072B2 i=note-whole o=cc@1:12,1
+1 AH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,6
+2 EE - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,11
+3 EH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,16
+4 OH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,21
+5 UH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,26
+6 MUS - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,31
+7 NAR - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,36
+8 RAR - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,41
+9 SIS - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,46
+10 ZOH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,51
+11 ZTOH - Sustain
+//! c=#0072B2 i=note-whole o=cc@1:12,56
+12 MM- Sustain
+
+//! spacer=1
+//! c=#009E73 i=marcato-half o=cc@2:12,1
+13 AH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,6
+14 EE - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,11
+15 EH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,16
+16 OH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,21
+17 UH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,26
+18 MUS - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,31
+19 NAR - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,36
+20 RAR - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,41
+21 SIS - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,46
+22 ZOH - Marcato
+//! c=#009E73 i=marcato-half o=cc@2:12,51
+23 ZTOH - Marcato
+
+//! spacer=1
+//! c=#D55E00 i=staccato o=cc@3:12,1
+24 AH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,6
+25 EE - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,11
+26 EH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,16
+27 OH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,21
+28 UH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,26
+29 DEE - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,31
+30 EX - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,36
+31 HOH - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,41
+32 MEM - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,46
+33 MUS - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,51
+34 NAR - Staccato
+//! c=#D55E00 i=staccato o=cc@3:12,56
+35 NEE - Staccato
+
+//! spacer=1
+//! c=#CC79A7 i=legato o=note@4:24
+36 AH - Legato
+//! c=#CC79A7 i=legato o=note@4:25
+37 EH - Legato
+//! c=#CC79A7 i=legato o=note@4:26
+38 OH - Legato
+//! c=#CC79A7 i=legato o=note@4:27
+39 UH - Legato
+//! c=#CC79A7 i=legato o=note@4:28
+40 MM - Legato

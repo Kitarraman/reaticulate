@@ -1,0 +1,158 @@
+//WARNING: THESE MAPS COMPLIMENTS THE ORCHESTRAL FOUNDATION BANK ALREADY PROVIDED BY RICHARD GRUET
+//CREATED BY: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+
+//! g="Spitfire/Abbey Road One/Selections" n="08 Legendary Low Strings"
+//! id=ed38d00c-c2c2-4fbb-b750-ad07192c536c
+Bank * * Legendary Low Strings
+//! c=legato i=legato o=note:0
+1 Epic Legato (8ve)
+//! c=long i=note-whole o=note:1
+2 Long (8ve)
+//! c=short i=staccato o=note:2
+3 Staccato (8ve)
+//! c=short-dark i=spiccato o=note:3
+4 Spiccato
+
+
+//! g="Spitfire/Abbey Road One/Selections" n="01 Wondrous Flutes"
+//! m="Mordents are off by default in my template"
+//! id=700b370c-d42a-4343-bccb-3af475694bbd
+Bank * * 01 Wondrous Flutes
+//! c=legato i=legato o=note:0
+1 Wondrous Legato (8ve)
+//! c=long i=note-whole o=note:1
+2 Long (8ve)
+//! c=short i=staccato o=note:2
+3 Staccato (8ve)
+//! c=short-dark i=marcato-quarter o=note:3
+4 Marcato (8ve)
+//! c=short-light i=trill-min2 o=note:4
+5 Mordent m2 (8ve)
+//! c=short-light i=trill-maj2 o=note:5
+6 Mordent M2 (8ve)
+//! c=short-light i=trill-min3 o=note:6
+7 Mordent m3 (8ve)
+//! c=short-light i=trill-maj3 o=note:7
+8 Mordent M3 (8ve)
+
+
+//! g="Spitfire/Abbey Road One/Selections" n="02 Mysterious Reeds"
+//! id=df4a9732-6078-4a0d-83d3-3180e86b99db
+Bank * * 03 Mysterious Reeds
+//! c=legato i=legato o=note:0
+1 Legato
+//! c=long i=note-whole o=note:1
+2 Long
+//! c=short i=staccato o=note:2
+3 Staccato
+//! c=legato i=legato o=note:3
+4 Myst-Legato (8ve)
+//! c=long i=note-whole o=note:4
+5 Myst-Long (8ve)
+//! c=short i=staccato o=note:5
+6 Myst-Staccato (8ve)
+
+
+//! g="Spitfire/Abbey Road One/Selections" n="03 Sparkling Woodwinds"
+//! id=6111a39f-536a-4cb7-8f39-e11011d7bdf1
+Bank * * 02 Sparkling Woodwinds
+//! c=legato i=legato o=note:0
+1 Sparkling Legato (8ve)
+//! c=long i=note-whole o=note:1
+2 Long (8ve)
+//! c=short i=staccato o=note:2
+3 Staccato (8ve)
+
+
+//! g="Spitfire/Abbey Road One/Selections" n="04 Vibrant Reeds"
+//! m="Mordents are off by default in my template"
+//! id=2def2337-43de-4da7-a3fa-2ce4b3495477
+Bank * * 04 Vibrant Reeds
+//! c=legato i=legato o=note:0
+1 Legato (8ve)
+//! c=long i=note-whole o=note:1
+2 Long (8ve)
+//! c=short i=staccato o=note:2
+3 Staccato (8ve)
+//! c=legato i=legato o=note:3
+4 Vibrant-Legato (8ve)
+//! c=long i=note-whole o=note:4
+5 Vibrant-Long (8ve)
+//! c=short i=staccato o=note:5
+6 Vibrant-Staccato (8ve)
+//! c=short-dark i=trill-min2 o=note:6
+7 Mordent m2 (8ve)
+//! c=short-dark i=trill-maj2 o=note:7
+8 Mordent M2 (8ve)name
+
+
+//! g="Spitfire/Abbey Road One/Selections" n="05 Thematic Horns"
+//! m="Mordents are off by default in my template"
+//! id=059c7a7e-f202-44b2-8916-ae9ae594c45a
+Bank * * 05 Thematic Horns
+//! c=legato i=legato o=note:0
+1 Performance Legato
+//! c=legato i=legato o=note:1
+2 Lyrical Legato
+//! c=long i=note-whole o=note:2
+3 Long
+//! c=long i=sfz o=note:3
+4 Long Sfz
+//! c=short-light i=staccatissimo-stopped o=note:4
+5 Staccatissimo
+//! c=short i=staccato o=note:5
+6 Staccato
+//! c=short-dark i=tenuto-eighth o=note:6
+7 Tenuto
+//! c=short-dark i=marcato-quarter o=note:7
+8 Marcato
+
+
+//! g="Spitfire/Abbey Road One/Selections" n="06 Thematic Trumpets"
+//! m="Mordents are off by default in my template"
+//! id=0dcbbd25-13da-4444-935e-36df1dd90193
+Bank * * 06 Thematic Trumpets
+//! c=legato i=legato o=note:0
+1 Legato
+//! c=long i=note-whole o=note:1
+2 Long
+//! c=long i=sfz o=note:2
+3 Long Sfz
+//! c=short-light i=staccatissimo-stopped o=note:3
+4 Staccatissimo
+//! c=short i=staccato o=note:4
+5 Staccato
+//! c=short-dark i=tenuto-eighth o=note:5
+6 Tenuto
+//! c=short-dark i=marcato-quarter o=note:6
+7 Marcato
+
+//! g="Spitfire/Abbey Road One/Selections" n="07 Grand Brass"
+//! id=1237b8cb-0153-4312-a507-433026029b91
+Bank * * 07 Grand Brass
+//! c=default i=legato o=note:0
+1 Legato (8ve)
+//! c=default i=note-whole o=note:1
+2 Long (8ve)
+//! c=default i=staccato o=note:2
+3 Staccato (8ve)
+//! c=default i=tenuto-eighth o=note:3
+4 Tenuto (8ve)
+//! c=default i=cresc-mp-half o=note:4
+5 Swells Short
+//! c=default i=cresc-half o=note:5
+6 Swells Medium
+//! c=default i=cresc-f-half o=note:6
+7 Swells Long
+//! c=default i=legato o=note:7
+8 Soaring Legato
+
+//! g="Spitfire/Abbey Road One/Selections" n="08 Soaring High Strings"
+//! id=016c8818-23cd-40ba-ae33-af5254f4bfaf
+Bank * * 08 Soaring High Strings
+//! c=legato i=legato o=note:0
+1 Soaring Legato
+//! c=long i=note-whole o=note:1
+2 Long
+//! c=short i=spiccato o=note:2
+3 Spiccato

@@ -1,0 +1,56 @@
+//ATTENTION: THIS IS A BANK I'VE MADE FOR MY CUSTOM KONTAKT MULTI. IF YOU PLAN ON USING THIS ARTICULATION BANK, I STRONGLY SUGGEST YOU BUILD THE MULTI THE SAME WAY I DID
+//I MAY MAKE THE MULTIS AVAILABLE ON MY WEBSITE AT SOME TIME IN THE FUTURE, SO CHECK KITARRAMAN.COM OUT IF YOU WANT TO SPARE YOURSELF SOME TIME.
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//----------------------------------------------------8DIO LIBERIS CHOIR
+//! g="8DIO/Liberis" n="01 Full Choir"
+//! m="Use only MIDI CCs 01, 11 and 16. Others may cause conflict"
+//! id=ed1f33c5-6a43-48e0-9da7-15740e024f08
+Bank * * 01 Full Choir
+//! c=#0072B2 i=note-whole o=note@1:24
+1 AH - Sustains
+//! c=#0072B2 i=note-whole o=note@1:25
+2 EH - Sustains
+//! c=#0072B2 i=note-whole o=note@1:26
+3 EE - Sustains
+//! c=#0072B2 i=note-whole o=note@1:27
+4 IH - Sustains
+//! c=#0072B2 i=note-whole o=note@1:28
+5 OH - Sustains
+//! c=#0072B2 i=note-whole o=note@1:29
+6 OOH - Sustains
+//! c=#0072B2 i=note-whole o=note@1:30
+7 MMM - Sustains
+
+//! spacer=1
+//! c=#D55E00 i=marcato-half o=note@2:24
+8 AH - Marcato
+//! c=#D55E00 i=marcato-half o=note@2:25
+9 DOH - Marcato
+//! c=#D55E00 i=marcato-half o=note@2:26
+10 FAH - Marcato
+//! c=#D55E00 i=marcato-half o=note@2:27
+11 MEH - Marcato
+//! c=#D55E00 i=marcato-half o=note@2:28
+12 REY - Marcato
+//! c=#D55E00 i=marcato-half o=note@2:29
+13 SOH - Marcato
+
+//! spacer=1
+//! c=#F0E442 i=staccato o=note@3:24
+14 AH - Staccato
+//! c=#F0E442 i=staccato o=note@3:25
+15 DOH - Staccato
+//! c=#F0E442 i=staccato o=note@3:26
+16 FAH - Staccato
+//! c=#F0E442 i=staccato o=note@3:27
+17 LAH - Staccato
+//! c=#F0E442 i=staccato o=note@3:28
+18 MI - Staccato
+//! c=#F0E442 i=staccato o=note@3:29
+19 OOH - Staccato
+//! c=#F0E442 i=staccato o=note@3:30
+20 REH - Staccato
+//! c=#F0E442 i=staccato o=note@3:31
+21 SOH - Staccato
+//! c=#F0E442 i=staccato o=note@3:32
+22 TUS - Staccato

@@ -1,0 +1,13 @@
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//--------------------------------------------------------------------
+//! g="Native Instruments/Session Guitarist" n="Picked Nylon"
+//! id=45c3f1c0-d35f-4f9c-b50e-468a3e9ee62e
+Bank * * Picked Nylon
+//! c=#0072B2 i=fx o=note:36
+1 Open String
+//! c=#0072B2 i=fx o=note:37
+2 Muted
+//! c=#0072B2 i=harmonics o=note:38
+3 Harmonics
+//! c=#0072B2 i=tremolo o=note:39
+4 Tremolo

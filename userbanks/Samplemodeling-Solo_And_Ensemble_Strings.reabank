@@ -1,0 +1,378 @@
+//IMPORTANT: WITH THE FOLLOWING ARTICULATION BANK, ALMOST ALL PARAMETERS CONTROLLING THIS INSTRUMENT ARE PRE-PROGRAMMED VIA KEYSWITCHES. YOU CAN CONTROL THE ATTACK AND RELEASE LENGHT VIA KEYSWITCH, BUT YOU DON'T GET
+//THE WHOLE 128 (0-127) INTERVAL RANGE. I ARBITRARILY DECIDED TO PROGRAM ALL THESE PARAMETERS AT MAXIMUM, MINIMUM AND MID LEVEL. IF YOU WANT MORE CONTROL, YOU CAN STILL HAND DRAW ON THE INTERESTED MIDI CC THAT
+//AFFECT THAT SPECIFIC PARAMETER.
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//------------------------------------------------------------------------------SampleModeling Strings Solo and Ensemble
+//! g="SampleModeling (TEST)/Strings Solo and Ensemble" n="01 Violins"
+//! m="CC1 = Vibrato Intensity; CC11 = Dynamics; CC19 = Vibrato and Tremolo Rate; CC26 = Attack Time/Marcato Attack Duration; CC27 = Release Time/Spiccato Release; CC38 = Bow Attacks/Marcato or Spiccato"
+//! id=9ae52fb0-d8e3-4089-8e3a-911867ea40a4
+Bank * * 01 Violins
+//! c=#009E73 i=legato-gliss o=note:36,127/cc:26,127/cc:27,127/cc:38,64
+1 Legato (Long ATK & REL)
+//! c=#009E73 i=legato o=note:36,127/cc:26,64/cc:38,64
+2 Legato
+//! c=#009E73 i=legato o=note:36,127/cc:26,0/cc:27,0/cc:38,64
+3 Legato (Short ATK & REL)
+//! c=#00764E i=legato-portamento o=note:39,127/cc:26,127/cc:27,127/cc:38,64
+4 Portato (Long ATK & REL)
+//! c=#00764E i=legato-portamento o=note:39,127/cc:26,64/cc:27,64/cc:38,64
+5 Portato
+//! c=#00764E i=legato-portamento o=note:39,127/cc:26,0/cc:64,0/cc:38,64
+6 Portato (Short ATK & REL)
+//! c=#0072B2 i=note-whole o=note:37,127/cc:38,0/cc:26,64/cc:27,64/cc:38,64
+43 Sustain (Long ATK & REL)
+//! c=#0072B2 i=note-whole o=note:37,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+7 Sustain
+//! c=#0072B2 i=note-whole o=note:37,127/cc:38,127/cc:26,64/cc:27,64/cc:38,64
+42 Sustain (Short ATK & REL)
+//! c=#4B98DC i=tremolo o=note:40,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+8 Tremolo
+//! c=#85DEFF i=harmonics o=note:43,127/cc:26,64/cc:27,64/cc:38,64
+9 Harmonics
+//! c=#004E8A i=fx o=cc:64,127/cc:26,127/cc:27,127/cc:38,64
+10 Detaché ON (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:38,127/cc:26,127/cc:27,127/cc:38,64
+11 Detaché OFF (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,127/note:38,127/cc:26,64/cc:27,64/cc:38,64
+12 Detaché ON
+//! c=#004E8A i=fx o=cc:64,0/note:38,127/cc:26,64/cc:27,64/cc:38,64
+13 Detaché OFF
+//! c=#004E8A i=fx o=cc:64,127/note:38,127/cc:26,0/cc:64,0/cc:38,64
+14 Detaché ON (Short ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:38,127/cc:26,0/cc:64,0/cc:38,64
+15 Detaché OFF (Short ATK & REL)
+//! spacer=1
+//! c=#B87800 i=marcato-half o=note:37,127/cc:26,127/cc:38,0
+16 Marcato (Long ATK & REL)
+//! c=#B87800 i=marcato-half o=note:37,127/cc:26,64/cc:38,0
+17 Marcato
+//! c=#B87800 i=marcato-quarter o=note:37,127/cc:26,0/cc:38,0
+18 Marcato (Short ATK & REL)
+//! c=#E69F00 i=spiccato o=note:37,127/cc:26,127/cc:27,127/cc:38,127
+19 Spiccato (Long ATK & REL)
+//! c=#E69F00 i=spiccato o=note:37,127/cc:26,64/cc:27,64/cc:38,127
+20 Spiccato
+//! c=#E69F00 i=spiccato o=note:37,127/cc:26,07/cc:27,0/cc:38,127
+21 Spiccato (Short ATK & REL)
+//! c=#F0E442 i=col-legno o=note:42,127/cc:26,127/cc:27,127/cc:38,64
+22 Col Legno (Long ATK & REL)
+//! c=#F0E442 i=col-legno o=note:42,127/cc:26,64/cc:27,64/cc:38,64
+23 Col Legno
+//! c=#F0E442 i=col-legno o=note:42,127/cc:26,0/cc:27,0/cc:38,64
+24 Col Legno (Short ATK & REL)
+//! c=#F0E442 i=pizz o=note:41,127/cc:26,64/cc:27,64/cc:38,64
+25 Pizzicato
+//! spacer=1
+//! c=fx i=note-whole o=cc:100,0
+34 Vln 1
+//! c=fx i=note-whole o=cc:100,20
+35 Vln 2
+//! c=fx i=note-whole o=cc:100,36
+36 Vln 3
+//! c=fx i=note-whole o=cc:100,56
+37 Vln 4
+//! c=fx i=note-whole o=cc:100,66
+38 Vln 5
+//! c=fx i=note-whole o=cc:100,84
+39 Vln 6
+//! c=fx i=note-whole o=cc:100,97
+40 Vln 7
+//! c=fx i=con-sord o=cc:100,127
+41 Sordina On
+//! spacer=1
+//! c=fx i=fx o=note:44,127
+26 Open Strings
+//! c=fx i=fx o=note:45,127
+27 Low Position
+//! c=fx i=fx o=note:46,127
+28 High Position
+//! c=fx i=fx o=note:48,127
+29 Highest Position
+//! spacer=1
+//! c=fx i=fx o=cc:95,127
+31 Large Ensemble Size
+//! c=fx i=fx o=cc:95,74
+32 Medium Ensemble Size
+//! c=fx i=fx o=cc:95,0
+33 Small Ensemble Size
+//! c=fx i=fx o=note:38/note:39/note:40/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+30 Panic = All KS OFF
+
+
+//! g="SampleModeling (TEST)/Strings Solo and Ensemble" n="02 Violas"
+//! m="CC1 = Vibrato Intensity; CC11 = Dynamics; CC19 = Vibrato and Tremolo Rate; CC26 = Attack Time/Marcato Attack Duration; CC27 = Release Time/Spiccato Release; CC38 = Bow Attacks/Marcato or Spiccato"
+//! id=38f79588-a6c3-46ce-9451-f8f9208a5aea
+Bank * * 02 Violas
+//! c=#009E73 i=legato-gliss o=note:36,127/cc:26,127/cc:27,127/cc:38,64
+1 Legato (Long ATK & REL)
+//! c=#009E73 i=legato o=note:36,127/cc:26,64/cc:38,64
+2 Legato
+//! c=#009E73 i=legato o=note:36,127/cc:26,0/cc:27,0/cc:38,64
+3 Legato (Short ATK & REL)
+//! c=#00764E i=legato-portamento o=note:39,127/cc:26,127/cc:27,127/cc:38,64
+4 Portato (Long ATK & REL)
+//! c=#00764E i=legato-portamento o=note:39,127/cc:26,64/cc:27,64/cc:38,64
+5 Portato
+//! c=#00764E i=legato-portamento o=note:39,127/cc:26,0/cc:64,0/cc:38,64
+6 Portato (Short ATK & REL)
+//! c=#0072B2 i=note-whole o=note:37,127/cc:38,0/cc:26,64/cc:27,64/cc:38,64
+43 Sustain (Long ATK & REL)
+//! c=#0072B2 i=note-whole o=note:37,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+7 Sustain
+//! c=#0072B2 i=note-whole o=note:37,127/cc:38,127/cc:26,64/cc:27,64/cc:38,64
+42 Sustain (Short ATK & REL)
+//! c=#4B98DC i=tremolo o=note:40,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+8 Tremolo
+//! c=#85DEFF i=harmonics o=note:43,127/cc:26,64/cc:27,64/cc:38,64
+9 Harmonics
+//! c=#004E8A i=fx o=cc:64,127/cc:26,127/cc:27,127/cc:38,64
+10 Detaché ON (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:38,127/cc:26,127/cc:27,127/cc:38,64
+11 Detaché OFF (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,127/note:38,127/cc:26,64/cc:27,64/cc:38,64
+12 Detaché ON
+//! c=#004E8A i=fx o=cc:64,0/note:38,127/cc:26,64/cc:27,64/cc:38,64
+13 Detaché OFF
+//! c=#004E8A i=fx o=cc:64,127/note:38,127/cc:26,0/cc:64,0/cc:38,64
+14 Detaché ON (Short ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:38,127/cc:26,0/cc:64,0/cc:38,64
+15 Detaché OFF (Short ATK & REL)
+//! spacer=1
+//! c=#B87800 i=marcato-half o=note:37,127/cc:26,127/cc:38,0
+16 Marcato (Long ATK & REL)
+//! c=#B87800 i=marcato-half o=note:37,127/cc:26,64/cc:38,0
+17 Marcato
+//! c=#B87800 i=marcato-quarter o=note:37,127/cc:26,0/cc:38,0
+18 Marcato (Short ATK & REL)
+//! c=#E69F00 i=spiccato o=note:37,127/cc:26,127/cc:27,127/cc:38,127
+19 Spiccato (Long ATK & REL)
+//! c=#E69F00 i=spiccato o=note:37,127/cc:26,64/cc:27,64/cc:38,127
+20 Spiccato
+//! c=#E69F00 i=spiccato o=note:37,127/cc:26,07/cc:27,0/cc:38,127
+21 Spiccato (Short ATK & REL)
+//! c=#F0E442 i=col-legno o=note:42,127/cc:26,127/cc:27,127/cc:38,64
+22 Col Legno (Long ATK & REL)
+//! c=#F0E442 i=col-legno o=note:42,127/cc:26,64/cc:27,64/cc:38,64
+23 Col Legno
+//! c=#F0E442 i=col-legno o=note:42,127/cc:26,0/cc:27,0/cc:38,64
+24 Col Legno (Short ATK & REL)
+//! c=#F0E442 i=pizz o=note:41,127/cc:26,64/cc:27,64/cc:38,64
+25 Pizzicato
+//! spacer=1
+//! c=fx i=note-whole o=cc:100,0
+34 Vla 1
+//! c=fx i=note-whole o=cc:100,20
+35 Vla 2
+//! c=fx i=note-whole o=cc:100,36
+36 Vla 3
+//! c=fx i=note-whole o=cc:100,56
+37 Vla 4
+//! c=fx i=note-whole o=cc:100,66
+38 Vla 5
+//! c=fx i=note-whole o=cc:100,84
+39 Vla 6
+//! c=fx i=note-whole o=cc:100,97
+40 Vla 7
+//! c=fx i=con-sord o=cc:100,127
+41 Sordina On
+//! spacer=1
+//! c=fx i=accented-half o=note:44,127
+26 Open Strings
+//! c=fx i=accented-half o=note:45,127
+27 Low Position
+//! c=fx i=accented-half o=note:46,127
+28 High Position
+//! c=fx i=fx o=cc:95,127
+31 Large Ensemble Size
+//! c=fx i=fx o=cc:95,74
+32 Medium Ensemble Size
+//! c=fx i=fx o=cc:95,0
+33 Small Ensemble Size
+//! c=fx i=accented-half o=note:38/note:39/note:40/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+30 Panic = All KS OFF
+
+
+//! g="SampleModeling (TEST)/Strings Solo and Ensemble" n="03 Cellos"
+//! m="CC1 = Vibrato Intensity; CC11 = Dynamics; CC19 = Vibrato and Tremolo Rate; CC26 = Attack Time/Marcato Attack Duration; CC27 = Release Time/Spiccato Release; CC38 = Bow Attacks/Marcato or Spiccato"
+//! id=a3f352e3-04f1-4138-aa74-3a52816db2af
+Bank * * 03 Cellos
+//! c=#009E73 i=legato-gliss o=note:24,127/cc:26,127/cc:27,127/cc:38,64
+1 Legato (Long ATK & REL)
+//! c=#009E73 i=legato o=note:24,127/cc:26,64/cc:38,64
+2 Legato
+//! c=#009E73 i=legato o=note:24,127/cc:26,0/cc:27,0/cc:38,64
+3 Legato (Short ATK & REL)
+//! c=#00764E i=legato-portamento o=note:27,127/cc:26,127/cc:27,127/cc:38,64
+4 Portato (Long ATK & REL)
+//! c=#00764E i=legato-portamento o=note:27,127/cc:26,64/cc:27,64/cc:38,64
+5 Portato
+//! c=#00764E i=legato-portamento o=note:27,127/cc:26,0/cc:64,0/cc:38,64
+6 Portato (Short ATK & REL)
+//! c=#0072B2 i=note-whole o=note:25,127/cc:38,0/cc:26,64/cc:27,64/cc:38,64
+41 Sustain (Long ATK & REL)
+//! c=#0072B2 i=note-whole o=note:25,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+7 Sustain
+//! c=#0072B2 i=note-whole o=note:25,127/cc:38,127/cc:26,64/cc:27,64/cc:38,64
+42 Sustain (Short ATK & REL)
+//! c=#4B98DC i=tremolo o=note:28,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+8 Tremolo
+//! c=#85DEFF i=harmonics o=note:31,127/cc:26,64/cc:27,64/cc:38,64
+9 Harmonics
+//! c=#004E8A i=fx o=cc:64,127/cc:26,127/cc:27,127/cc:38,64
+10 Detaché ON (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:26,127/cc:26,127/cc:27,127/cc:38,64
+11 Detaché OFF (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,127/note:26,127/cc:26,64/cc:27,64/cc:38,64
+12 Detaché ON
+//! c=#004E8A i=fx o=cc:64,0/note:26,127/cc:26,64/cc:27,64/cc:38,64
+13 Detaché OFF
+//! c=#004E8A i=fx o=cc:64,127/note:26,127/cc:26,0/cc:64,0/cc:38,64
+14 Detaché ON (Short ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:26,127/cc:26,0/cc:64,0/cc:38,64
+15 Detaché OFF (Short ATK & REL)
+//! spacer=1
+//! c=#B87800 i=marcato-half o=note:25,127/cc:26,127/cc:38,0
+16 Marcato (Long ATK & REL)
+//! c=#B87800 i=marcato-half o=note:25,127/cc:26,64/cc:38,0
+17 Marcato
+//! c=#B87800 i=marcato-quarter o=note:25,127/cc:26,0/cc:38,0
+18 Marcato (Short ATK & REL)
+//! c=#E69F00 i=spiccato o=note:25,127/cc:26,127/cc:27,127/cc:38,127
+19 Spiccato (Long ATK & REL)
+//! c=#E69F00 i=spiccato o=note:25,127/cc:26,64/cc:27,64/cc:38,127
+20 Spiccato
+//! c=#E69F00 i=spiccato o=note:25,127/cc:26,07/cc:27,0/cc:38,127
+21 Spiccato (Short ATK & REL)
+//! c=#F0E442 i=col-legno o=note:30,127/cc:26,127/cc:27,127/cc:38,64
+22 Col Legno (Long ATK & REL)
+//! c=#F0E442 i=col-legno o=note:30,127/cc:26,64/cc:27,64/cc:38,64
+23 Col Legno
+//! c=#F0E442 i=col-legno o=note:30,127/cc:26,0/cc:27,0/cc:38,64
+24 Col Legno (Short ATK & REL)
+//! c=#F0E442 i=pizz o=note:29,127/cc:26,64/cc:27,64/cc:38,64
+25 Pizzicato
+//! spacer=1
+//! c=fx i=note-whole o=cc:100,0
+34 Cello 1
+//! c=fx i=note-whole o=cc:100,20
+35 Cello 2
+//! c=fx i=note-whole o=cc:100,36
+36 Cello 3
+//! c=fx i=note-whole o=cc:100,56
+37 Cello 4
+//! c=fx i=note-whole o=cc:100,66
+38 Cello 5
+//! c=fx i=note-whole o=cc:100,84
+39 Cello 6
+//! c=fx i=note-whole o=cc:100,97
+40 Cello 7
+//! c=fx i=con-sord o=cc:100,127
+31 Sordina On
+//! spacer=1
+//! c=fx i=accented-half o=note:32,127
+26 Open Strings
+//! c=fx i=accented-half o=note:33,127
+27 Low Position
+//! c=fx i=accented-half o=note:34,127
+28 High Position
+//! c=fx i=fx o=cc:95,127
+31 Large Ensemble Size
+//! c=fx i=fx o=cc:95,74
+32 Medium Ensemble Size
+//! c=fx i=fx o=cc:95,0
+33 Small Ensemble Size
+//! c=fx i=accented-half o=note:24/note:27/note:28/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+30 Panic = All KS OFF
+
+
+//! g="SampleModeling (TEST)/Strings Solo and Ensemble" n="04 DBasses"
+//! m="CC1 = Vibrato Intensity; CC11 = Dynamics; CC19 = Vibrato and Tremolo Rate; CC26 = Attack Time/Marcato Attack Duration; CC27 = Release Time/Spiccato Release; CC38 = Bow Attacks/Marcato or Spiccato"
+//! id=92d38aad-1a5f-4cde-a554-3e472ae4494f
+Bank * * 04 DBasses
+//! c=#009E73 i=legato-gliss o=note:24,127/cc:26,127/cc:27,127/cc:38,64
+1 Legato (Long ATK & REL)
+//! c=#009E73 i=legato o=note:24,127/cc:26,64/cc:38,64
+2 Legato
+//! c=#009E73 i=legato o=note:24,127/cc:26,0/cc:27,0/cc:38,64
+3 Legato (Short ATK & REL)
+//! c=#00764E i=legato-portamento o=note:27,127/cc:26,127/cc:27,127/cc:38,64
+4 Portato (Long ATK & REL)
+//! c=#00764E i=legato-portamento o=note:27,127/cc:26,64/cc:27,64/cc:38,64
+5 Portato
+//! c=#00764E i=legato-portamento o=note:27,127/cc:26,0/cc:64,0/cc:38,64
+6 Portato (Short ATK & REL)
+//! c=#0072B2 i=note-whole o=note:25,127/cc:38,0/cc:26,64/cc:27,64/cc:38,64
+42 Sustain (Long ATK & REL)
+//! c=#0072B2 i=note-whole o=note:25,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+7 Sustain
+//! c=#0072B2 i=note-whole o=note:25,127/cc:38,127/cc:26,64/cc:27,64/cc:38,64
+43 Sustain (Short ATK & REL)
+//! c=#4B98DC i=tremolo o=note:28,127/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+8 Tremolo
+//! c=#85DEFF i=harmonics o=note:31,127/cc:26,64/cc:27,64/cc:38,64
+9 Harmonics
+//! c=#004E8A i=fx o=cc:64,127/cc:26,127/cc:27,127/cc:38,64
+10 Detaché ON (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:26,127/cc:26,127/cc:27,127/cc:38,64
+11 Detaché OFF (Long ATK & REL)
+//! c=#004E8A i=fx o=cc:64,127/note:26,127/cc:26,64/cc:27,64/cc:38,64
+12 Detaché ON
+//! c=#004E8A i=fx o=cc:64,0/note:26,127/cc:26,64/cc:27,64/cc:38,64
+13 Detaché OFF
+//! c=#004E8A i=fx o=cc:64,127/note:26,127/cc:26,0/cc:64,0/cc:38,64
+14 Detaché ON (Short ATK & REL)
+//! c=#004E8A i=fx o=cc:64,0/note:26,127/cc:26,0/cc:64,0/cc:38,64
+15 Detaché OFF (Short ATK & REL)
+//! spacer=1
+//! c=#B87800 i=marcato-half o=note:25,127/cc:26,127/cc:38,0
+16 Marcato (Long ATK & REL)
+//! c=#B87800 i=marcato-half o=note:25,127/cc:26,64/cc:38,0
+17 Marcato
+//! c=#B87800 i=marcato-quarter o=note:25,127/cc:26,0/cc:38,0
+18 Marcato (Short ATK & REL)
+//! c=#E69F00 i=spiccato o=note:25,127/cc:26,127/cc:27,127/cc:38,127
+19 Spiccato (Long ATK & REL)
+//! c=#E69F00 i=spiccato o=note:25,127/cc:26,64/cc:27,64/cc:38,127
+20 Spiccato
+//! c=#E69F00 i=spiccato o=note:25,127/cc:26,07/cc:27,0/cc:38,127
+21 Spiccato (Short ATK & REL)
+//! c=#F0E442 i=col-legno o=note:30,127/cc:26,127/cc:27,127/cc:38,64
+22 Col Legno (Long ATK & REL)
+//! c=#F0E442 i=col-legno o=note:30,127/cc:26,64/cc:27,64/cc:38,64
+23 Col Legno
+//! c=#F0E442 i=col-legno o=note:30,127/cc:26,0/cc:27,0/cc:38,64
+24 Col Legno (Short ATK & REL)
+//! c=#F0E442 i=pizz o=note:29,127/cc:26,64/cc:27,64/cc:38,64
+25 Pizzicato
+//! spacer=1
+//! c=fx i=note-whole o=cc:100,0
+34 DBass 1
+//! c=fx i=note-whole o=cc:100,20
+35 DBass 2
+//! c=fx i=note-whole o=cc:100,36
+36 DBass 3
+//! c=fx i=note-whole o=cc:100,56
+37 DBass 4
+//! c=fx i=note-whole o=cc:100,66
+38 DBass 5
+//! c=fx i=note-whole o=cc:100,84
+39 DBass 6
+//! c=fx i=note-whole o=cc:100,97
+40 DBass 7
+//! c=fx i=con-sord o=cc:100,127
+41 Sordina On
+//! spacer=1
+//! c=fx i=accented-half o=note:32,127
+26 Open Strings
+//! c=fx i=accented-half o=note:33,127
+27 Low Position
+//! c=fx i=accented-half o=note:34,127
+28 High Position
+//! c=fx i=fx o=cc:95,127
+31 Large Ensemble Size
+//! c=fx i=fx o=cc:95,74
+32 Medium Ensemble Size
+//! c=fx i=fx o=cc:95,0
+33 Small Ensemble Size
+//! c=fx i=accented-half o=note:24/note:27/note:28/cc:38,64/cc:26,64/cc:27,64/cc:38,64
+30 Panic = All KS OFF

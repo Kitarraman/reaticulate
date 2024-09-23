@@ -1,0 +1,372 @@
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//----------------------------------------------- ICONICA SKETCH WOODWINDS
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="01 Flute 1"
+//! id=8d568004-7cb7-4ca7-864b-d2b457a5adad
+Bank * * 01 Flute 1
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="02 Flute 2"
+//! id=96812c75-fd8d-4b5e-855a-195b9ad3c1da
+Bank * * 02 Flute 2
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="03 Piccolo"
+//! id=d5c58403-6bf9-4b3a-9e6a-5a0087e60f72
+Bank * * 03 Piccolo
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="04 Oboe 1"
+//! id=e0670971-256b-4045-bc76-1443a2e272f0
+Bank * * 04 Oboe 1
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="05 Oboe 2"
+//! id=3b74df84-c399-43bb-a9ce-8d730b83874b
+Bank * * 05 Oboe 2
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="06 English Horn"
+//! id=759e2b4e-c347-4d34-a4dd-16ac89591d49
+Bank * * 06 English Horn
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="07 Clarinet 1"
+//! id=64555c74-433b-4b2b-8823-0ecce49c3116
+Bank * * 07 Clarinet 1
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="08 Clarinet 2"
+//! id=c7ce5c8e-e842-49ad-86f0-bee3bf2999c0
+Bank * * 08 Clarinet 2
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="09 Bass Clarinet"
+//! id=c1a16f62-ddc2-467e-a279-5c837d44252a
+Bank * * 09 Bass Clarinet
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="10 Bassoon 1"
+//! id=57406eaa-29db-4460-8e68-6791bc9b4361
+Bank * * 10 Bassoon 1
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="11 Bassoon 2"
+//! id=71063920-a771-4017-9452-163502f129fe
+Bank * * 11 Bassoon 2
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/01 Woodwinds" n="12 Contra Bassoon"
+//! id=33caecb9-1ee9-4922-8431-87f056865721
+Bank * * 12 Contra Bassoon
+//! c=#0072B2 i=legato o=note:76
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:75
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:74
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:73
+4 Marcato
+//! c=#A25280 i=staccato o=note:72
+5 Staccato
+
+//----------------------------------------------- ICONICA SKETCH BRASS
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="01 French Horn Solo"
+//! id=eaac6aa0-7eae-4d4a-a8d0-1c32a6cea89b
+Bank * * 01 French Horn Solo
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="02 French Horns"
+//! id=d11a6a92-a3fc-46b0-8281-8454efb1d84e
+Bank * * 02 French Horns
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="03 Trumpet Solo"
+//! id=38508a8c-51af-4ae0-a21c-c8df05ccb639
+Bank * * 03 Trumpet Solo
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="04 Trumpet Ensemble"
+//! id=4f855cb6-c5eb-4fef-b1d3-d00e2ae5d3cb
+Bank * * 04 Trumpet Ensemble
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="05 Trombone Solo"
+//! id=570f3d3a-a7c7-4803-82a3-30a6ad65ba64
+Bank * * 05 Trombone Solo
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="06 Trombone Ensemble"
+//! id=15d2f8ad-68d2-49b4-a5fe-2edfd4888430
+Bank * * 06 Trombone Ensemble
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="07 Euphonium"
+//! id=af9a77f8-ec99-466d-a4cf-3266bd841e31
+Bank * * 07 Euphonium
+//! c=#0072B2 i=legato o=note:28
+1 Legato
+//! c=#56B4E9 i=vibrato o=note:27
+2 Sustain Vibrato
+//! c=#56B4E9 i=note-whole o=note:26
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:25
+4 Marcato
+//! c=#A25280 i=staccato o=note:24
+5 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/02 Brass" n="08 Tuba"
+//! id=2e2919cf-4f8e-44d1-b000-a2c4fdbe77c4
+Bank * * 08 Tuba
+//! c=#0072B2 i=legato o=note:76
+1 Legato
+//! c=#56B4E9 i=note-whole o=note:74
+3 Sustain
+//! c=#CC79A7 i=marcato-quarter o=note:73
+4 Marcato
+//! c=#A25280 i=staccato o=note:72
+5 Staccato
+
+//------------------------------ICONICA SKETCH PERCS
+//! g="Orchestral Tools/Iconica Sketch/03 Percussions" n="01 Timpani"
+//! id=3c3e7fa4-7af5-4bcf-b596-c6971199932f
+Bank * * 01 Timpani
+//! c=#00764E i=fx o=note:24
+1 Medium Mallet Hit
+//! c=#A63700 i=fx o=note:25
+2 Medium Mallet Roll
+
+//-------------------------------ICONICA SKETCH STRINGS
+//! g="Orchestral Tools/Iconica Sketch/04 Strings" n="01 Violins 1"
+//! id=b03f4081-6b21-4205-bebd-f16f7247afcf
+Bank * * 01 Violins 1
+//! c=#56B4E9 i=note-whole o=note:27
+1 Sustain
+//! c=#56B4E9 i=vibrato o=note:30
+2 Sustain Vibrato
+//! c=#0072B2 i=legato o=note:28
+3 Legato
+//! c=#009E73 i=tremolo o=note:29
+4 Tremolo
+//! c=#D55E00 i=spiccato o=note:26
+5 Spiccato
+//! c=#CC79A7 i=pizz o=note:25
+6 Pizzicato
+//! c=#A63700 i=staccato o=note:24
+7 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/04 Strings" n="02 Violins 2"
+//! id=060a38e4-a564-446c-9b2f-bc1bbacc3103
+Bank * * 02 Violins 2
+//! c=#56B4E9 i=note-whole o=note:27
+1 Sustain
+//! c=#56B4E9 i=vibrato o=note:30
+2 Sustain Vibrato
+//! c=#0072B2 i=legato o=note:28
+3 Legato
+//! c=#009E73 i=tremolo o=note:29
+4 Tremolo
+//! c=#D55E00 i=spiccato o=note:26
+5 Spiccato
+//! c=#CC79A7 i=pizz o=note:25
+6 Pizzicato
+//! c=#A63700 i=staccato o=note:24
+7 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/04 Strings" n="03 Violas"
+//! id=e39265e0-69c8-49ca-985d-8c36bd557fd0
+Bank * * 03 Violas
+//! c=#56B4E9 i=note-whole o=note:27
+1 Sustain
+//! c=#56B4E9 i=vibrato o=note:30
+2 Sustain Vibrato
+//! c=#0072B2 i=legato o=note:28
+3 Legato
+//! c=#009E73 i=tremolo o=note:29
+4 Tremolo
+//! c=#D55E00 i=spiccato o=note:26
+5 Spiccato
+//! c=#CC79A7 i=pizz o=note:25
+6 Pizzicato
+//! c=#A63700 i=staccato o=note:24
+7 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/04 Strings" n="04 Cellos"
+//! id=cb85e3e0-b680-4d20-96a4-7d6293b557cb
+Bank * * 04 Cellos
+//! c=#56B4E9 i=note-whole o=note:27
+1 Sustain
+//! c=#56B4E9 i=vibrato o=note:30
+2 Sustain Vibrato
+//! c=#0072B2 i=legato o=note:28
+3 Legato
+//! c=#009E73 i=tremolo o=note:29
+4 Tremolo
+//! c=#D55E00 i=spiccato o=note:26
+5 Spiccato
+//! c=#CC79A7 i=pizz o=note:25
+6 Pizzicato
+//! c=#A63700 i=staccato o=note:24
+7 Staccato
+
+//! g="Orchestral Tools/Iconica Sketch/04 Strings" n="05 Basses"
+//! id=c1fe22df-6d84-432a-8827-259f7d7d82c9
+Bank * * 05 Basses
+//! c=#56B4E9 i=note-whole o=note:27
+1 Sustain
+//! c=#56B4E9 i=vibrato o=note:30
+2 Sustain Vibrato
+//! c=#0072B2 i=legato o=note:28
+3 Legato
+//! c=#009E73 i=tremolo o=note:29
+4 Tremolo
+//! c=#D55E00 i=spiccato o=note:26
+5 Spiccato
+//! c=#CC79A7 i=pizz o=note:25
+6 Pizzicato
+//! c=#A63700 i=staccato o=note:24
+7 Staccato

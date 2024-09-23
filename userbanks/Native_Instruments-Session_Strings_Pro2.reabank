@@ -1,0 +1,212 @@
+//THIS MAP WAS BUILT FOR MY SESSION STRINGS 2 MULTI. I SUGGEST YOU BUILD YOURS ACCORDINGLY IF YOU PLAN ON USING THIS MAP
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//---------------------------------------------------------------------------Session Strings Pro 2
+//! g="Native Instruments/Session Strings Pro 2" n="01 Violins 1"
+//! m="Dynamic control w CC01"
+//! id=c8d3febe-b0ab-48ba-8974-31606ade689c
+Bank * * 01 Violins 1
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=long i=legato-gliss o=note@1:14
+3 Glissando
+//! c=long i=legato-portamento o=note@1:15
+4 Portamento
+//! c=long i=accented-half o=note@1:16
+5 Accented
+//! c=short i=staccato o=note@1:17
+6 Staccato
+//! c=short i=spiccato o=note@1:18
+7 Spiccato
+//! c=short i=pizz o=note@1:19
+8 Pizzicato
+//! c=long i=tremolo o=note@1:20
+9 Tremolo
+//! c=textured i=trill-min2 o=note@2:12
+10 Trill m2
+//! c=textured i=trill-maj2 o=note@2:13
+11 Trill M2
+//! c=fx i=scoop o=note@2:14
+12 Scoops Fast
+//! c=fx i=scoop o=note@2:15
+13 Scoops Slow
+//! c=fx i=fall o=note@2:16
+14 Falls Fast
+//! c=fx i=fall o=note@2:17
+15 Falls Slow
+
+//! g="Native Instruments/Session Strings Pro 2" n="02 Violins 2"
+//! m="Dynamic control w CC01"
+//! id=1734131f-c659-4288-ae99-aa1d1aa144d7
+Bank * * 02 Violins 2
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=long i=legato-gliss o=note@1:14
+3 Glissando
+//! c=long i=legato-portamento o=note@1:15
+4 Portamento
+//! c=long i=accented-half o=note@1:16
+5 Accented
+//! c=short i=staccato o=note@1:17
+6 Staccato
+//! c=short i=spiccato o=note@1:18
+7 Spiccato
+//! c=short i=pizz o=note@1:19
+8 Pizzicato
+//! c=long i=tremolo o=note@1:20
+9 Tremolo
+//! c=textured i=trill-min2 o=note@2:12
+10 Trill m2
+//! c=textured i=trill-maj2 o=note@2:13
+11 Trill M2
+//! c=fx i=scoop o=note@2:14
+12 Scoops Fast
+//! c=fx i=scoop o=note@2:15
+13 Scoops Slow
+//! c=fx i=fall o=note@2:16
+14 Falls Fast
+//! c=fx i=fall o=note@2:17
+15 Falls Slow
+
+//! g="Native Instruments/Session Strings Pro 2" n="03 Violas"
+//! m="Dynamic control w CC01"
+//! id=2816ab07-2568-4804-8928-befd00661753
+Bank * * 03 Violas
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=long i=legato-gliss o=note@1:14
+3 Glissando
+//! c=long i=legato-portamento o=note@1:15
+4 Portamento
+//! c=long i=accented-half o=note@1:16
+5 Accented
+//! c=short i=staccato o=note@1:17
+6 Staccato
+//! c=short i=spiccato o=note@1:18
+7 Spiccato
+//! c=long i=pizz o=note@1:19
+8 Pizzicato
+//! c=long i=tremolo o=note@1:20
+9 Tremolo
+//! c=textured i=trill-min2 o=note@2:12
+10 Trill m2
+//! c=textured i=trill-maj2 o=note@2:13
+11 Trill M2
+//! c=fx i=scoop o=note@2:14
+12 Scoops Fast
+//! c=fx i=scoop o=note@2:15
+13 Scoops Slow
+//! c=fx i=fall o=note@2:16
+14 Falls Fast
+//! c=fx i=fall o=note@2:17
+15 Falls Slow
+
+//! g="Native Instruments/Session Strings Pro 2" n="04 Cellis"
+//! m="Dynamic control w CC01"
+//! id=698fb394-c1b5-4303-8c26-64a2c7639e00
+Bank * * 04 Cellis
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=long i=legato-gliss o=note@1:14
+3 Glissando
+//! c=long i=legato-portamento o=note@1:15
+4 Portamento
+//! c=long i=accented-half o=note@1:16
+5 Accented
+//! c=short i=staccato o=note@1:17
+6 Staccato
+//! c=short i=spiccato o=note@1:18
+7 Spiccato
+//! c=long i=pizz o=note@1:19
+8 Pizzicato
+//! c=long i=tremolo o=note@1:20
+9 Tremolo
+//! c=textured i=trill-min2 o=note@2:12
+10 Trill m2
+//! c=textured i=trill-maj2 o=note@2:13
+11 Trill M2
+//! c=fx i=scoop o=note@2:14
+12 Scoops Fast
+//! c=fx i=scoop o=note@2:15
+13 Scoops Slow
+//! c=fx i=fall o=note@2:16
+14 Falls Fast
+//! c=fx i=fall o=note@2:17
+15 Falls Slow
+
+
+//! g="Native Instruments/Session Strings Pro 2" n="05 Basses"
+//! id=a29bc048-a340-462e-8dac-2b0f4962ebf2
+Bank * * 05 Basses
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=long i=legato-gliss o=note@1:14
+3 Glissando
+//! c=long i=legato-portamento o=note@1:15
+4 Portamento
+//! c=long i=accented-half o=note@1:16
+5 Accented
+//! c=short i=staccato o=note@1:17
+6 Staccato
+//! c=short i=spiccato o=note@1:18
+7 Spiccato
+//! c=long i=pizz o=note@1:19
+8 Pizzicato
+//! c=long i=tremolo o=note@1:20
+9 Tremolo
+//! c=textured i=trill-min2 o=note@2:12
+10 Trill m2
+//! c=textured i=trill-maj2 o=note@2:13
+11 Trill M2
+//! c=fx i=scoop o=note@2:14
+12 Slide Slow Up
+//! c=fx i=fall o=note@2:15
+13 Slide Slow Down
+//! c=fx i=scoop o=note@2:16
+14 Slide Fast Up
+//! c=fx i=fall o=note@2:17
+15 Slide Fast Down
+
+//! g="Native Instruments/Session Strings Pro 2" n="06 Strings Ensemble"
+//! m="Dynamic control w CC01"
+//! id=781cf9bd-ae9a-4dae-a4ad-c0e16fd6ffd3
+Bank * * 06 Strings Ensemble
+//! c=long i=note-whole o=note@1:12
+1 Sustain
+//! c=legato i=legato o=note@1:13
+2 Legato
+//! c=long i=legato-gliss o=note@1:14
+3 Glissando
+//! c=long i=legato-portamento o=note@1:15
+4 Portamento
+//! c=long i=accented-half o=note@1:16
+5 Accented
+//! c=short i=staccato o=note@1:17
+6 Staccato
+//! c=short i=spiccato o=note@1:18
+7 Spiccato
+//! c=long i=pizz o=note@1:19
+8 Pizzicato
+//! c=long i=tremolo o=note@1:20
+9 Tremolo
+//! c=textured i=trill-min2 o=note@2:12
+10 Trill m2
+//! c=textured i=trill-maj2 o=note@2:13
+11 Trill M2
+//! c=fx i=scoop o=note@2:14
+12 Scoops Fast
+//! c=fx i=scoop o=note@2:15
+13 Scoops Slow
+//! c=fx i=fall o=note@2:16
+14 Falls Fast
+//! c=fx i=fall o=note@2:17
+15 Falls Slow

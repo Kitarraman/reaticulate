@@ -1,0 +1,182 @@
+//ATTENTION: I'VE SOMEWHAT MODIFIED THE ORIGINAL PATCHES, REPLACING SOME ARTICULATIONS I DEEMED UNUSEFUL WITH SOME THAT ACTUALLY WERE. CHECK OUT THE INSTRUMENT WITH THIS ARTICULATION MAP PRIOR TO USING IT.
+//SOURCE: KITARRAMAN (HTTPS://WWW.KITARRAMAN.COM)
+//-----------------------------------------------------------------------------------------------------AUDIOBRO MODERN SCORING STRINGS
+//! g="AudioBro/Modern Scoring Strings" n="01 Violins"
+//! m="CC01 = Dynamics, CC = 02 Vib, CC03 = Detune, CC04 = Different Ariculation Switches, CC07 = Master Volume, CC08 = Bass 3-note and 4-note slider, CC09 = Articulation Faders handling Legato, CC11 = EXP, CC15 = Tightness Control, CC30 = Divisi On/Off"
+//! id=31193549-7004-4bb6-8900-b4853f6571d8
+Bank * * 01 Violins
+//! c=#00764E i=cresc-quarter o=cc:04,1
+1 Cresc Attack/Bloom (Longs Only)
+//! c=#00764E i=note-quarter o=cc:04,76
+2 Normale Attack (Longs Only)
+//! c=#00764E i=accented-quarter o=cc:04,127
+3 Accent Attack/Bowed (Longs Only)
+//! c=#00764E i=fx o=cc:15,0
+4 Loose Attack (Shorts Only)
+//! c=#00764E i=fx o=cc:15,64
+5 Medium Attack (Shorts Only)
+//! c=#00764E i=fx o=cc:15,127
+6 Tight Attack (Shorts Only)
+
+//! spacer=1
+//! c=#004E8A i=note-whole o=note:0/cc:09,1/cc:16,0
+7 Normale Sustain
+//! c=#004E8A i=legato o=note:0/cc:09,1/cc:16,127
+8 Normale Legato
+//! c=#004E8A i=legato-portamento o=note:0/cc:09,76/cc:16,127
+9 Normale Portamento
+//! c=#004E8A i=legato-gliss o=note:0/cc:09,127/cc:16,127
+10 Normale Glissato
+
+//! spacer=1
+//! c=#0072B2 i=con-sord o=note:1
+11 Con Sordino
+//! c=#0072B2 i=sul-tasto o=note:2
+12 Sul Tasto
+//! c=#0072B2 i=sul-pont o=note:3
+13 Sul Pont
+
+//! spacer=1
+//! c=#198CBF i=bow-down o=note:4/cc:04,0
+14 Martelé
+//! c=#198CBF i=staccato o=note:4/cc:04,31
+15 Staccato
+//! c=#198CBF i=staccatissimo-stopped o=note:4/cc:04,65
+16 Staccatissimo
+//! c=#198CBF i=spiccato o=note:4/cc:04,120
+17 Spiccato
+
+//! spacer=1
+//! c=#56B4E9 i=pizz o=note:5
+18 Pizzicato
+//! c=#56B4E9 i=col-legno o=note:6
+19 Col Legno
+
+//! spacer=1
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,1/cc:16,0
+20 Tremolo
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,1/cc:16,0
+21 Tremolo Sul Pont
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,1/cc:16,127
+22 Tremolo Legato
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,1/cc:16,127
+23 Tremolo Legato Sul Pont
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,76/cc:16,127
+24 Tremolo Port
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,76/cc:16,127
+25 Tremolo Port Sul Pont
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,127/cc:16,127
+26 Tremolo Gliss
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,127/cc:16,127
+27 Tremolo Gliss Sul Pont
+
+//! spacer=1
+//! c=#F0E442 i=harmonics o=note:8
+28 Harmonics
+//! c=#D55E00 i=trill-min2 o=note:9
+29 Trill m2
+//! c=#D55E00 i=trill-maj2 o=note:10
+30 Trill M2
+
+//! spacer=1
+//! c=default i=legato o=cc:16,127
+31 Legato On
+//! c=default i=note-whole o=cc:16,0
+32 Legato Off
+
+
+//! g="AudioBro/Modern Scoring Strings" n="02 Violins 2"
+//! m="CC01 = Dynamics, CC = 02 Vib, CC03 = Detune, CC04 = Different Ariculation Switches, CC07 = Master Volume, CC08 = Bass 3-note and 4-note slider, CC09 = Articulation Faders handling Legato, CC11 = EXP, CC15 = Tightness Control, CC30 = Divisi On/Off"
+//! clone="AudioBro/Modern Scoring Strings/01 Violins"
+//! id=8e2e07df-0059-4d7a-8745-0b44ee699b46
+Bank * * 02 Violins 2
+
+//! g="AudioBro/Modern Scoring Strings" n="03 Violas"
+//! m="CC01 = Dynamics, CC = 02 Vib, CC03 = Detune, CC04 = Different Ariculation Switches, CC07 = Master Volume, CC08 = Bass 3-note and 4-note slider, CC09 = Articulation Faders handling Legato, CC11 = EXP, CC15 = Tightness Control, CC30 = Divisi On/Off"
+//! clone="AudioBro/Modern Scoring Strings/01 Violins"
+//! id=01ca3d33-a172-429f-a62c-02b2f7844d68
+Bank * * 03 Violas
+
+//! g="AudioBro/Modern Scoring Strings" n="04 Cellos"
+//! m="CC01 = Dynamics, CC = 02 Vib, CC03 = Detune, CC04 = Different Ariculation Switches, CC07 = Master Volume, CC08 = Bass 3-note and 4-note slider, CC09 = Articulation Faders handling Legato, CC11 = EXP, CC15 = Tightness Control, CC30 = Divisi On/Off"
+//! clone="AudioBro/Modern Scoring Strings/01 Violins"
+//! id=d9f87345-73ec-483f-aae7-29efe3941b0f
+Bank * * 04 Cellos
+
+//! g="AudioBro/Modern Scoring Strings" n="05 Contrabasses"
+//! m="CC01 = Dynamics, CC = 02 Vib, CC03 = Detune, CC04 = Different Ariculation Switches, CC07 = Master Volume, CC08 = Bass 3-note and 4-note slider, CC09 = Articulation Faders handling Legato, CC11 = EXP, CC15 = Tightness Control, CC30 = Divisi On/Off"
+//! id=22d6acfd-bb92-4c26-8454-0b6f741cdcde
+Bank * * 05 Contrabasses
+//! c=#00764E i=cresc-quarter o=cc:04,1
+1 Cresc Attack/Bloom (Longs Only)
+//! c=#00764E i=note-quarter o=cc:04,76
+2 Normale Attack (Longs Only)
+//! c=#00764E i=accented-quarter o=cc:04,127
+3 Accent Attack/Bowed (Longs Only)
+//! c=#00764E i=fx o=cc:15,0
+4 Loose Attack (Shorts Only)
+//! c=#00764E i=fx o=cc:15,64
+5 Medium Attack (Shorts Only)
+//! c=#00764E i=fx o=cc:15,127
+6 Tight Attack (Shorts Only)
+//! spacer=1
+//! c=#004E8A i=note-whole o=note:0/cc:09,1/cc:16,0
+7 Normale Sustain
+//! c=#004E8A i=legato o=note:0/cc:09,1/cc:16,127
+8 Normale Legato
+//! c=#004E8A i=legato-portamento o=note:0/cc:09,76/cc:16,127
+9 Normale Portamento
+//! c=#004E8A i=legato-gliss o=note:0/cc:09,127/cc:16,127
+10 Normale Glissato
+//! spacer=1
+//! c=#0072B2 i=con-sord o=note:1
+11 Con Sordino
+//! c=#0072B2 i=sul-tasto o=note:2
+12 Sul Tasto
+//! c=#0072B2 i=sul-pont o=note:3
+13 Sul Pont
+//! spacer=1
+//! c=#198CBF i=bow-down o=note:4/cc:04,0
+14 Martelé
+//! c=#198CBF i=staccato o=note:4/cc:04,31
+15 Staccato
+//! c=#198CBF i=staccatissimo-stopped o=note:4/cc:04,65
+16 Staccatissimo
+//! c=#198CBF i=spiccato o=note:4/cc:04,120
+17 Spiccato
+//! spacer=1
+//! c=#56B4E9 i=pizz o=note:5
+18 Pizzicato
+//! c=#56B4E9 i=pizz-bartok o=note:9
+19 Pizzicato
+//! c=#56B4E9 i=col-legno o=note:6
+20 Col Legno
+//! spacer=1
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,1/cc:16,0
+21 Tremolo
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,1/cc:16,0
+22 Tremolo Sul Pont
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,1/cc:16,127
+23 Tremolo Legato
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,1/cc:16,127
+24 Tremolo Legato Sul Pont
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,76/cc:16,127
+25 Tremolo Port
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,76/cc:16,127
+26 Tremolo Port Sul Pont
+//! c=#009E73 i=tremolo o=note:7/cc:04,1/cc:09,127/cc:16,127
+27 Tremolo Gliss
+//! c=#009E73 i=tremolo-sul-pont o=note:7/cc:04,127/cc:09,127/cc:16,127
+28 Tremolo Gliss Sul Pont
+//! spacer=1
+//! c=#F0E442 i=harmonics o=note:8
+29 Harmonics
+//! c=#D55E00 i=trill-min2 o=note:9
+30 Trill m2
+//! c=#D55E00 i=trill-maj2 o=note:10
+31 Trill M2
+//! spacer=1
+//! c=default i=legato o=cc:16,127
+32 Legato On
+//! c=default i=note-whole o=cc:16,0
+33 Legato Off
