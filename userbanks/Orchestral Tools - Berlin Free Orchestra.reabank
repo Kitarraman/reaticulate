@@ -1,0 +1,275 @@
+//------------------WARNING: THIS REABANK USER FILE DOESN'T USE THE DEFAULT KEYSWITCHES SINE LOADS THE LIBRARY WITH. EDIT THE ASSIGNED KEYSWITCHES (OR THE BANK) TO MAKE IT WORK
+//------------------------------------------------------------------------------------------------------------------------------------------
+//Berlin Free Orchestra Woodwinds
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="01 Solo Piccolo Flute"
+//! id=07c3e014-0d1a-4da4-9038-b9f4328fb326
+Bank * * 01 Solo Piccolo Flute
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="02 Flute"
+//! id=f5d1e61e-92e3-41e4-adf0-6e48c813b936
+Bank * * 02 Flute
+//! c=#009E73 i=legato o=note:0
+1 Sustains Legato
+//! c=#0072B2 i=note-whole o=note:1
+2 Sustains
+//! c=#D55E00 i=staccato o=note:2
+3 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="03 Oboe"
+//! id=664d7349-bcc8-4edd-9f1a-b6cd239b435c
+Bank * * 03 Oboe
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="04 English Horn"
+//! id=3da5d0cc-b220-4758-99ac-590cc5a2dea0
+Bank * * 04 English Horn
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="05 Clarinet"
+//! id=85f3301b-cff3-40ae-8ce2-ca42bdbdcf0b
+Bank * * 05 Clarinet
+//! c=#009E73 i=legato o=note:0
+1 Sustains Legato
+//! c=#0072B2 i=note-whole o=note:1
+2 Sustains
+//! c=#D55E00 i=staccato o=note:2
+3 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="06 Bass Clarinet"
+//! id=3f992bb0-2dce-4800-b6e8-18f2da2c6793
+Bank * * 06 Bass Clarinet
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="07 Bassoon"
+//! id=3b51890b-cba4-4d22-a0ce-37f729ae2380
+Bank * * 07 Bassoon
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="08 Contrabassoon"
+//! id=e355f526-e3ad-4e12-bc56-8c4ac516f265
+Bank * * 08 Contrabassoon
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/01 Woodwinds" n="09 Woodwind Ensemble"
+//! id=80fee43b-7eb8-47f8-9474-35b6911d3758
+Bank * * 08 Woodwind Ensemble
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato
+
+
+//Berlin Free Orchestra Brass
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="01 Trumpets a3"
+//! id=78a2b3fe-c60a-4896-ac2b-c2d4e6e74718
+Bank * * 01 Trumpets a3
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="02 Trumpets solo"
+//! id=bcb78541-a817-459d-9cb5-dbee5ddc40dd
+Bank * * 02 Trumpets solo
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="03 French Horns a4"
+//! id=5cc07e4d-18e0-49a0-8412-25da3de5bb4e
+Bank * * 03 French Horns a4
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="04 French Horn Solo"
+//! id=072d57d4-3a82-4cf1-b5fe-31b247181f87
+Bank * * 04 French Horn Solo
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="05 Trombones a3"
+//! id=96057741-3818-4fd9-96b0-3b85562cab17
+Bank * * 05 Trombones a3
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="06 Trombone solo"
+//! id=f3491498-8a1d-4201-9f49-3ec073228e98
+Bank * * 06 Trombone solo
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="07 Tuba"
+//! id=d1b0b657-f0ac-4d5f-a1a7-ae69cce520d4
+Bank * * 07 Tuba
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//! g="Orchestral Tools/Berlin Free Orchestra/02 Brass" n="08 Brass Ensemble"
+//! id=6988d0b9-c56e-4d67-b4c6-8224bbb0c404
+Bank * * 08 Brass Ensemble
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustains
+//! c=#D55E00 i=staccato o=note:1
+2 Staccato short
+
+
+//Berlin Free Orchestra Percussions
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="01 Drums"
+//! id=9e24c083-8714-42dc-8ccd-53f057abe426
+Bank * * 01 Drums
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="02 Unpitched Metals"
+//! id=a387ef4f-51fe-4621-8229-d6a47579daac
+Bank * * 02 Unpitched Metals
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="03 Percussion"
+//! id=2958addc-a5f8-46a3-a3d3-f75fdacd3657
+Bank * * 03 Percussion
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="04 Timpani"
+//! id=95e1b650-172c-4cbd-bee7-fef08ad67d8b
+Bank * * 04 Timpani
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="05 Tubular Bells"
+//! id=d061d62f-8ded-4784-ad58-81daa1d1ad3c
+Bank * * 05 Tubular Bells
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="06 Glockenspiel"
+//! id=ec872b9a-d437-4b93-8896-e5bab89fd8da
+Bank * * 06 Glockenspiel
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="07 Vibraphone"
+//! id=93264fce-d209-47a7-980c-2b0ddf1c29f1
+Bank * * 07 Vibraphone
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="08 Marimba"
+//! id=5841fc12-46ac-4a8b-b143-530dc9f7620d
+Bank * * 08 Marimba
+
+//! g="Orchestral Tools/Berlin Free Orchestra/03 Percussions" n="09 Xylophone"
+//! id=9d069e60-cc6f-4da0-aabc-53fb44be06d4
+Bank * * 09 Xylophone
+
+//Berlin Free Orchestra Strings
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="01 String ensemble"
+//! id=2263c133-c16e-4148-b364-6740815cac1f
+Bank * * 01 String ensemble
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustain
+//! c=#009E73 i=spiccato o=note:1
+2 Spiccato
+
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="02 Violins a6"
+//! id=5a7cbd89-00fc-46b2-be00-6622716abeb3
+Bank * * 02 Violins a6
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustain
+//! c=#009E73 i=spiccato o=note:1
+2 Spiccato
+//! c=#CC79A7 i=pizz o=note:2
+3 Pizzicato
+//! c=#F0E442 i=tremolo o=note:3
+4 Tremolo
+
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="03 Viola a5"
+//! id=4af81f7a-0be8-4fae-b431-3c39720b5df7
+Bank * * 03 Viola a5
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustain
+//! c=#009E73 i=spiccato o=note:1
+2 Spiccato
+//! c=#CC79A7 i=pizz o=note:2
+3 Pizzicato
+//! c=#F0E442 i=tremolo o=note:3
+4 Tremolo
+
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="04 Celli a5"
+//! id=36a53411-09e8-4328-8c92-e3a782584ac7
+Bank * * 04 Celli a5
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustain
+//! c=#009E73 i=spiccato o=note:1
+2 Spiccato
+//! c=#CC79A7 i=pizz o=note:2
+3 Pizzicato
+//! c=#F0E442 i=tremolo o=note:3
+4 Tremolo
+
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="05 Basses a3"
+//! id=64da3971-6012-4dc5-b28d-3b81cad9d5b8
+Bank * * 05 Basses a3
+//! c=#0072B2 i=note-whole o=note:0
+1 Sustain
+//! c=#009E73 i=spiccato o=note:1
+2 Spiccato
+//! c=#CC79A7 i=pizz o=note:2
+3 Pizzicato
+
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="06 solo violin"
+//! id=07e3a6a9-5215-4a4d-b8de-989b91aeb6d0
+Bank * * 06 solo violin
+//! c=#D55E00 i=legato o=note:0
+1 Legato Sustain
+//! c=#0072B2 i=note-whole o=note:1
+2 Sustain
+//! c=#009E73 i=staccato o=note:2
+3 Staccato
+
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="07 solo cello"
+//! id=097efe88-673f-4ee1-9451-0d90e3960f26
+Bank * * 07 solo cello
+//! c=#D55E00 i=legato o=note:0
+1 Legato Sustain
+//! c=#0072B2 i=note-whole o=note:1
+2 Sustain
+//! c=#009E73 i=staccato o=note:2
+3 Staccato
+
+//! g="Orchestral Tools/Berlin Free Orchestra/04 Strings" n="08 harp"
+//! id=b9e15b78-88e4-49f7-be77-7424ee5655bf
+Bank * * 08 harp
